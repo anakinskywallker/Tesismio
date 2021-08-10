@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QG4SKoAJx2/Q7oyRlEpkiqrCxrgffq3tO8ZFWm2r7cuP6gd1O/isZdu5rF2XNQxGzzdyMGKPcD9pVovdo+fUaQ==",
+  "success": true,
+  "projectFilePath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrés\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

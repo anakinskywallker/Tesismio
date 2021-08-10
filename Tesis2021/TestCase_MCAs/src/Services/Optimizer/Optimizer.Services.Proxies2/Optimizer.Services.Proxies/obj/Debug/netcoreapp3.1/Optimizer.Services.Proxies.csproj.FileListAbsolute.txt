@@ -1,0 +1,27 @@
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.deps.json
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.dll
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.pdb
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.csprojAssemblyReference.cache
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.AssemblyInfoInputs.cache
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.AssemblyInfo.cs
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.csproj.CoreCompileInputs.cache
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.dll
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.pdb
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.deps.json
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.pdb
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.csprojAssemblyReference.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.AssemblyInfoInputs.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.AssemblyInfo.cs
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.csproj.CoreCompileInputs.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.pdb
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.deps.json
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.pdb
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.csproj.AssemblyReference.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.AssemblyInfoInputs.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.AssemblyInfo.cs
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.csproj.CoreCompileInputs.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.Proxies2\Optimizer.Services.Proxies\obj\Debug\netcoreapp3.1\Optimizer.Services.Proxies.pdb

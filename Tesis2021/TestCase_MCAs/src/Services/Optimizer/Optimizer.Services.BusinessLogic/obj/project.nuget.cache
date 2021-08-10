@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WvnxnPPTm9CaBHrtE9sZXReacv6oEP1a1j8GV5k42NsLE5tSZaTmyzOqzTp5SVHgpd0XcFnVXSAlP7bMWJDKGw==",
+  "success": true,
+  "projectFilePath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.BusinessLogic\\Optimizer.Services.BusinessLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrés\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

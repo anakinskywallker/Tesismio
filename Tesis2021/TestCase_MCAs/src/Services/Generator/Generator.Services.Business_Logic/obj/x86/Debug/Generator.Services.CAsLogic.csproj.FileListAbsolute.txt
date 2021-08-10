@@ -1,0 +1,7 @@
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Salida\CAsBouch.exe.config
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Salida\CAsBouch.exe
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Salida\CAsBouch.pdb
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Business_Logic\obj\x86\Debug\Generator.Services.CAsLogic.csproj.AssemblyReference.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Business_Logic\obj\x86\Debug\Generator.Services.CAsLogic.csproj.CoreCompileInputs.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Business_Logic\obj\x86\Debug\CAsBouch.exe
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Business_Logic\obj\x86\Debug\CAsBouch.pdb

@@ -1,0 +1,36 @@
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.deps.json
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.pdb
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.pdb
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.csprojAssemblyReference.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.AssemblyInfoInputs.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.AssemblyInfo.cs
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.csproj.CoreCompileInputs.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.csproj.CopyComplete
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.pdb
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.deps.json
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.pdb
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.pdb
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.csprojAssemblyReference.cache
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.AssemblyInfoInputs.cache
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.AssemblyInfo.cs
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.csproj.CoreCompileInputs.cache
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.csproj.CopyComplete
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.pdb
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.deps.json
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.pdb
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\bin\Debug\netcoreapp3.1\Optimizer.Services.Proxies.pdb
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.csproj.AssemblyReference.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.AssemblyInfoInputs.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.AssemblyInfo.cs
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.csproj.CoreCompileInputs.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.csproj.CopyComplete
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.EventHandlers\obj\Debug\netcoreapp3.1\Optimizer.Services.SendtoSeeker.pdb

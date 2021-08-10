@@ -1,0 +1,12 @@
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\bin\Debug\netcoreapp3.1\Generator.Services.SendtoSekeer.deps.json
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\bin\Debug\netcoreapp3.1\Generator.Services.SendtoSekeer.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\bin\Debug\netcoreapp3.1\Generator.Services.SendtoSekeer.pdb
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\bin\Debug\netcoreapp3.1\Generator.Services.Proxies.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\bin\Debug\netcoreapp3.1\Generator.Services.Proxies.pdb
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSekeer.csprojAssemblyReference.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSekeer.AssemblyInfoInputs.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSekeer.AssemblyInfo.cs
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSekeer.csproj.CoreCompileInputs.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSekeer.csproj.CopyComplete
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSekeer.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSekeer.pdb

@@ -1,0 +1,15 @@
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\bin\Debug\net5.0\business_logic.deps.json
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\bin\Debug\net5.0\business_logic.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\bin\Debug\net5.0\ref\business_logic.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\bin\Debug\net5.0\business_logic.pdb
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\bin\Debug\net5.0\Generator.Services.Proxies.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\bin\Debug\net5.0\Generator.Services.Proxies.pdb
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\business_logic.csprojAssemblyReference.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\business_logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\business_logic.AssemblyInfoInputs.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\business_logic.AssemblyInfo.cs
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\business_logic.csproj.CoreCompileInputs.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\business_logic.csproj.CopyComplete
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\business_logic.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\ref\business_logic.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\business_logic.pdb

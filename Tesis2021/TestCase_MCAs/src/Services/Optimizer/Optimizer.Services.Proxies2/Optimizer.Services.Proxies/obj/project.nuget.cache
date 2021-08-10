@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "s4qZi/RQFWd7eugGG2ND5CaLyg++AwJlb8QcZ6OIUiXmBZPYYrr5ZlpykCgaTbybk09g0gPpljeqRX+HS1yTxA==",
+  "success": true,
+  "projectFilePath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.Proxies2\\Optimizer.Services.Proxies\\Optimizer.Services.Proxies.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrés\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Andrés\\.nuget\\packages\\microsoft.extensions.options\\5.0.0\\microsoft.extensions.options.5.0.0.nupkg.sha512",
+    "C:\\Users\\Andrés\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,212 @@
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\appsettings.json
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.exe
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.deps.json
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.runtimeconfig.json
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.runtimeconfig.dev.json
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.dll
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\ref\Generator.Api.dll
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.pdb
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csprojAssemblyReference.cache
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.AssemblyInfoInputs.cache
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.AssemblyInfo.cs
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.CoreCompileInputs.cache
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\staticwebassets\Generator.Api.StaticWebAssets.Manifest.cache
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\staticwebassets\Generator.Api.StaticWebAssets.xml
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\scopedcss\bundle\Generator.Api.styles.css
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.RazorTargetAssemblyInfo.cache
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.CopyComplete
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.dll
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\ref\Generator.Api.dll
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.pdb
+E:\TESIS\software\version1_manual\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.genruntimeconfig.cache
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\appsettings.json
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.exe
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.deps.json
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.runtimeconfig.json
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.runtimeconfig.dev.json
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.dll
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\ref\Generator.Api.dll
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.pdb
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\MediatR.dll
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csprojAssemblyReference.cache
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.AssemblyInfoInputs.cache
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.AssemblyInfo.cs
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.CoreCompileInputs.cache
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\staticwebassets\Generator.Api.StaticWebAssets.Manifest.cache
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\staticwebassets\Generator.Api.StaticWebAssets.xml
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\scopedcss\bundle\Generator.Api.styles.css
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.RazorTargetAssemblyInfo.cache
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.CopyComplete
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.dll
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\ref\Generator.Api.dll
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.pdb
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.genruntimeconfig.cache
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.Proxies.dll
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.Proxies.pdb
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Servies.EventHandlers.dll
+E:\TESIS\software\version1_manual\Version_1.2\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Servies.EventHandlers.pdb
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\appsettings.json
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.exe
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.deps.json
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.runtimeconfig.json
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.runtimeconfig.dev.json
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.dll
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\ref\Generator.Api.dll
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.pdb
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\MediatR.dll
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.Proxies.dll
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Servies.EventHandlers.dll
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.Proxies.pdb
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Servies.EventHandlers.pdb
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csprojAssemblyReference.cache
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.AssemblyInfoInputs.cache
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.AssemblyInfo.cs
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.CoreCompileInputs.cache
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\staticwebassets\Generator.Api.StaticWebAssets.Manifest.cache
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\staticwebassets\Generator.Api.StaticWebAssets.xml
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\scopedcss\bundle\Generator.Api.styles.css
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.RazorTargetAssemblyInfo.cache
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.CopyComplete
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.dll
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\ref\Generator.Api.dll
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.pdb
+E:\TESIS\software\Ver_2\Version_1.3\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.genruntimeconfig.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.exe
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.deps.json
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.runtimeconfig.json
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.runtimeconfig.dev.json
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\ref\Generator.Api.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.pdb
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\MediatR.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.Proxies.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.Proxies.pdb
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csprojAssemblyReference.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.AssemblyInfoInputs.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.AssemblyInfo.cs
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.CoreCompileInputs.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\staticwebassets\Generator.Api.StaticWebAssets.Manifest.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\staticwebassets\Generator.Api.StaticWebAssets.xml
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\scopedcss\bundle\Generator.Api.styles.css
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.RazorTargetAssemblyInfo.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.CopyComplete
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\ref\Generator.Api.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.pdb
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.genruntimeconfig.cache
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.SendtoSeeker.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.SendtoSeeker.pdb
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.business_logic.dll
+C:\Users\anrol\Documents\GitHub\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.business_logic.pdb
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\appsettings.json
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.exe
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.deps.json
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.runtimeconfig.json
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.runtimeconfig.dev.json
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\ref\Generator.Api.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.pdb
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\MediatR.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.business_logic.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.Proxies.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.SendtoSeeker.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.business_logic.pdb
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.Proxies.pdb
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.SendtoSeeker.pdb
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csprojAssemblyReference.cache
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.AssemblyInfoInputs.cache
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.AssemblyInfo.cs
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.CoreCompileInputs.cache
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\staticwebassets\Generator.Api.StaticWebAssets.Manifest.cache
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\staticwebassets\Generator.Api.StaticWebAssets.xml
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\scopedcss\bundle\Generator.Api.styles.css
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.RazorTargetAssemblyInfo.cache
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.CopyComplete
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\ref\Generator.Api.dll
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.pdb
+C:\Users\anrol\Desktop\Tesis\Version Contolladores\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.genruntimeconfig.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\appsettings.json
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.exe
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.deps.json
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.runtimeconfig.json
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.runtimeconfig.dev.json
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\ref\Generator.Api.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.pdb
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\MediatR.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.business_logic.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.Proxies.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.SendtoSeeker.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.business_logic.pdb
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.Proxies.pdb
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.SendtoSeeker.pdb
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.AssemblyReference.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.AssemblyInfoInputs.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.AssemblyInfo.cs
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.CoreCompileInputs.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\staticwebassets\Generator.Api.StaticWebAssets.Manifest.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\staticwebassets\Generator.Api.StaticWebAssets.xml
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\scopedcss\bundle\Generator.Api.styles.css
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.RazorTargetAssemblyInfo.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.CopyComplete
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\ref\Generator.Api.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.pdb
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.genruntimeconfig.cache
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Optimizer.Services.BusinessLogic.dll
+D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Optimizer.Services.BusinessLogic.pdb
