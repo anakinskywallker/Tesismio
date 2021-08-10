@@ -407,11 +407,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Api\\Optimizer.Api.csproj",
+      "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Api\\Optimizer.Api.csproj",
       "projectName": "Optimizer.Api",
-      "projectPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Api\\Optimizer.Api.csproj",
+      "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Api\\Optimizer.Api.csproj",
       "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-      "outputPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Api\\obj\\",
+      "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -432,14 +432,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.BusinessLogic\\Optimizer.Services.BusinessLogic.csproj": {
-              "projectPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.BusinessLogic\\Optimizer.Services.BusinessLogic.csproj"
+            "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.BusinessLogic\\Optimizer.Services.BusinessLogic.csproj": {
+              "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.BusinessLogic\\Optimizer.Services.BusinessLogic.csproj"
             },
-            "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.EventHandlers\\Optimizer.Services.SendtoSeeker.csproj": {
-              "projectPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.EventHandlers\\Optimizer.Services.SendtoSeeker.csproj"
+            "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.EventHandlers\\Optimizer.Services.SendtoSeeker.csproj": {
+              "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.EventHandlers\\Optimizer.Services.SendtoSeeker.csproj"
             },
-            "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.Proxies2\\Optimizer.Services.Proxies\\Optimizer.Services.Proxies.csproj": {
-              "projectPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.Proxies2\\Optimizer.Services.Proxies\\Optimizer.Services.Proxies.csproj"
+            "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.Proxies2\\Optimizer.Services.Proxies\\Optimizer.Services.Proxies.csproj": {
+              "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.Proxies2\\Optimizer.Services.Proxies\\Optimizer.Services.Proxies.csproj"
             }
           }
         }

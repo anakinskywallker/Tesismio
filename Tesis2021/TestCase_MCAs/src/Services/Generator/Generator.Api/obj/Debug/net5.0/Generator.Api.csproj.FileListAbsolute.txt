@@ -210,3 +210,42 @@ D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Ap
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.genruntimeconfig.cache
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Optimizer.Services.BusinessLogic.dll
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Optimizer.Services.BusinessLogic.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\appsettings.json
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.exe
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.deps.json
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.runtimeconfig.json
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.runtimeconfig.dev.json
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\ref\Generator.Api.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Api.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\MediatR.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.business_logic.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.Proxies.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.SendtoSeeker.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Optimizer.Services.BusinessLogic.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.business_logic.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.Proxies.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Generator.Services.SendtoSeeker.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\bin\Debug\net5.0\Optimizer.Services.BusinessLogic.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.AssemblyReference.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.AssemblyInfoInputs.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.AssemblyInfo.cs
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.CoreCompileInputs.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\staticwebassets\Generator.Api.StaticWebAssets.Manifest.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\staticwebassets\Generator.Api.StaticWebAssets.xml
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\scopedcss\bundle\Generator.Api.styles.css
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.RazorTargetAssemblyInfo.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.csproj.CopyComplete
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\ref\Generator.Api.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Api\obj\Debug\net5.0\Generator.Api.genruntimeconfig.cache

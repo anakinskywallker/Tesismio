@@ -23,7 +23,6 @@ namespace Generator.Services.business_logic
             //  Console.WriteLine(sol.MiCA.ToString());
             //  Console.WriteLine("Fitness = " + sol.Fitness);
             //  Console.ReadKey();
-            
             throw new NotImplementedException();
         }
     }

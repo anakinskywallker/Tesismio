@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
+      "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
       "projectName": "Seeker.Services.Switch",
-      "projectPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
+      "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
       "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-      "outputPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\obj\\",
+      "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

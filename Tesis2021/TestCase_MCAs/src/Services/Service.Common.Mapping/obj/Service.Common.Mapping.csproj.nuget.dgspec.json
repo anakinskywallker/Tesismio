@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {}
+    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {}
   },
   "projects": {
-    "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
+    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
+        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
         "projectName": "Service.Common.Mapping",
-        "projectPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
+        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\obj\\",
+        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

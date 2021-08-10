@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj": {}
+    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj": {}
   },
   "projects": {
-    "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj": {
+    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj",
+        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj",
         "projectName": "Seeker.Persistence.Database",
-        "projectPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj",
+        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\obj\\",
+        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,8 +32,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj": {
-                "projectPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj"
+              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj": {
+                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj": {
+    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj",
+        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj",
         "projectName": "Seeker.Domain",
-        "projectPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj",
+        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\obj\\",
+        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -130,14 +130,14 @@
         }
       }
     },
-    "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj": {
+    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj",
+        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj",
         "projectName": "Seeker.Services.EventHandlers",
-        "projectPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj",
+        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\obj\\",
+        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -158,8 +158,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj": {
-                "projectPath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj"
+              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj": {
+                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj"
               }
             }
           }

@@ -1,13 +1,7 @@
-﻿using MediatR;
+﻿using Generator.Services.Commands;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Threading.Tasks;
-using Generator.Servies.SendtoSeeker;
-using Generator.Servies.SendtoSeeker.Commands;
-using Generator.Services.Commands;
 
 namespace Generator.Api.Controllers
 {
@@ -31,7 +25,7 @@ namespace Generator.Api.Controllers
             return Ok();
         }
 
-        
+
 
         //---------------
         [HttpGet]

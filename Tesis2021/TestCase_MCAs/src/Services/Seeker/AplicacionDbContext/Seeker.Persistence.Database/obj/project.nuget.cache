@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "G4nElWHEDPCb0NX6TPALLOUs+X3bRgDsluqghLQVOSqpsaSvetrOQ2phZzIVnvwV4WHHiO3aF0k1xpRmoZFE2A==",
+  "dgSpecHash": "Cqg1Ow0LXv+DyBo3rqhNduojn3gXdZ51tN/E/ZjBYM/ItRZfvQifpJ6OCZVmsJCPDh6zyEnkZjQte//n1LJEow==",
   "success": true,
-  "projectFilePath": "D:\\Tesis\\Version 1.1\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj",
+  "projectFilePath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrés\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.4\\microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
     "C:\\Users\\Andrés\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.4\\microsoft.entityframeworkcore.abstractions.5.0.4.nupkg.sha512",

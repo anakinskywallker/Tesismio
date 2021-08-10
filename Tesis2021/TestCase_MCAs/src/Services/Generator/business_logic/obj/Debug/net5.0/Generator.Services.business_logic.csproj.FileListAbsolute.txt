@@ -30,3 +30,20 @@ D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\business_log
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\Generator.Services.business_logic.dll
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\ref\Generator.Services.business_logic.dll
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\Generator.Services.business_logic.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\bin\Debug\net5.0\Generator.Services.business_logic.deps.json
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\bin\Debug\net5.0\Generator.Services.business_logic.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\bin\Debug\net5.0\ref\Generator.Services.business_logic.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\bin\Debug\net5.0\Generator.Services.business_logic.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\bin\Debug\net5.0\Generator.Services.Proxies.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\bin\Debug\net5.0\Optimizer.Services.BusinessLogic.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\bin\Debug\net5.0\Optimizer.Services.BusinessLogic.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\bin\Debug\net5.0\Generator.Services.Proxies.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\Generator.Services.business_logic.csproj.AssemblyReference.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\Generator.Services.business_logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\Generator.Services.business_logic.AssemblyInfoInputs.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\Generator.Services.business_logic.AssemblyInfo.cs
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\Generator.Services.business_logic.csproj.CoreCompileInputs.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\Generator.Services.business_logic.csproj.CopyComplete
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\Generator.Services.business_logic.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\ref\Generator.Services.business_logic.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\business_logic\obj\Debug\net5.0\Generator.Services.business_logic.pdb
