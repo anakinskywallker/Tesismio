@@ -12,7 +12,7 @@ namespace Seeker.Services.Proxies.Generator
     {
         Task SendCasToOptAsync(CasSeekerToOptCommandProxies command);
         Task SendCasToGeneratorAsync(CasSeekerCommandProxies command);
-        Task SendCasToGeneratorSwitch(CasSeekerSwithCommandProxies command);
+        
     }
 
     public class SeekerProxy : ISeekerProxy
@@ -35,20 +35,6 @@ namespace Seeker.Services.Proxies.Generator
             // generar el Json
             var content = new StringContent(
                            JsonSerializer.Serialize(command2),
-                           Encoding.UTF8,
-                           "application/json"
-                       );
-
-            //enviamos json por protocolo http 
-            var request = await _httpClient.PostAsync(_apiUrls.GeneratorUrl, content);
-            request.EnsureSuccessStatusCode();
-        }
-
-        public async Task SendCasToGeneratorSwitch(CasSeekerSwithCommandProxies command3)
-        {
-            // generar el Json
-            var content = new StringContent(
-                           JsonSerializer.Serialize(command3),
                            Encoding.UTF8,
                            "application/json"
                        );

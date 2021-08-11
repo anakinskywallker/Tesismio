@@ -43,12 +43,3 @@ D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Proxies\obj\Debug\netcoreapp3.1\Seeker.Services.Proxies.csproj.CoreCompileInputs.cache
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Proxies\obj\Debug\netcoreapp3.1\Seeker.Services.Proxies.dll
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Proxies\obj\Debug\netcoreapp3.1\Seeker.Services.Proxies.pdb
-D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Proxies\bin\Debug\netcoreapp3.1\Seeker.Services.Proxies.deps.json
-D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Proxies\bin\Debug\netcoreapp3.1\Seeker.Services.Proxies.dll
-D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Proxies\bin\Debug\netcoreapp3.1\Seeker.Services.Proxies.pdb
-D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Proxies\obj\Debug\netcoreapp3.1\Seeker.Services.Proxies.csproj.AssemblyReference.cache
-D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Proxies\obj\Debug\netcoreapp3.1\Seeker.Services.Proxies.AssemblyInfoInputs.cache
-D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Proxies\obj\Debug\netcoreapp3.1\Seeker.Services.Proxies.AssemblyInfo.cs
-D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Proxies\obj\Debug\netcoreapp3.1\Seeker.Services.Proxies.csproj.CoreCompileInputs.cache
-D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Proxies\obj\Debug\netcoreapp3.1\Seeker.Services.Proxies.dll
-D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Proxies\obj\Debug\netcoreapp3.1\Seeker.Services.Proxies.pdb
