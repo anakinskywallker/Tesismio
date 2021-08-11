@@ -21,6 +21,7 @@ namespace Generator.Services.business_logic
 
         public async Task Handle(CasSeekertoGeneratorlogic notification, CancellationToken cancellationToken)
         {
+
             const string theGenerator = "ISA";
             const string theRequiredCA = "N16K8V4^4-3^1-2^3t2.ca";
             const int theSeed = 1;
