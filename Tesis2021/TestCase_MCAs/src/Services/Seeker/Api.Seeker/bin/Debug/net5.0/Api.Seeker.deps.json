@@ -1919,7 +1919,8 @@
       },
       "Seeker.Services.Switch/1.0.0": {
         "dependencies": {
-          "MediatR": "9.0.0"
+          "MediatR": "9.0.0",
+          "Seeker.Services.Proxies": "1.0.0"
         },
         "runtime": {
           "Seeker.Services.Switch.dll": {}

@@ -160,7 +160,7 @@ namespace Generator.Services.business_logic.Logica
 
         public override string ToString()
         {
-            var result = "CA encontrado:\n";
+            var result = "";
             for (var renglon = 0; renglon < N; renglon++)
             {
                 for (var columna = 0; columna < K; columna++)

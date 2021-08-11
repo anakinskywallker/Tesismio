@@ -35,7 +35,7 @@ namespace Api.Seeker.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create(CasSwitchCommand command)
+        public async Task<IActionResult> Create(CasSeekerSwitchCommand command)
         {
             await _mediator.Publish(command);
             return Ok();

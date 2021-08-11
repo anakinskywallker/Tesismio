@@ -2145,7 +2145,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "MediatR": "9.0.0"
+          "MediatR": "9.0.0",
+          "Seeker.Services.Proxies": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Seeker.Services.Switch.dll": {}

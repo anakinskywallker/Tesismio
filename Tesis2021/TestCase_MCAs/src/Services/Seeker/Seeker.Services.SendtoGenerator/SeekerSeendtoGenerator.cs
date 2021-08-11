@@ -28,7 +28,6 @@ namespace Seeker.Services.SendtoGenerator
                 Strength = notification.Strength,
                 Alphabet = notification.Alphabet,
                 Rows = notification.Rows,
-                //CA_notes = notification.CA_notes
             };
             // envio del obejto al metodo
             await _seekerProxy.SendCasToGeneratorAsync(command);
