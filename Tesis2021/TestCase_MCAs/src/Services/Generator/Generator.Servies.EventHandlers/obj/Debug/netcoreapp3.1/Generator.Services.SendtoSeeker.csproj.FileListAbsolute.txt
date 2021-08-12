@@ -22,3 +22,15 @@ D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Se
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSeeker.csproj.CopyComplete
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSeeker.dll
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSeeker.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\bin\Debug\netcoreapp3.1\Generator.Services.SendtoSeeker.deps.json
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\bin\Debug\netcoreapp3.1\Generator.Services.SendtoSeeker.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\bin\Debug\netcoreapp3.1\Generator.Services.SendtoSeeker.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\bin\Debug\netcoreapp3.1\Generator.Services.Proxies.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\bin\Debug\netcoreapp3.1\Generator.Services.Proxies.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSeeker.csproj.AssemblyReference.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSeeker.AssemblyInfoInputs.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSeeker.AssemblyInfo.cs
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSeeker.csproj.CoreCompileInputs.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSeeker.csproj.CopyComplete
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSeeker.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Servies.EventHandlers\obj\Debug\netcoreapp3.1\Generator.Services.SendtoSeeker.pdb

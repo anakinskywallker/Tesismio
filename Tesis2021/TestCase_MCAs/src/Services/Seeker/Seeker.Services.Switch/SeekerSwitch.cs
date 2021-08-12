@@ -52,7 +52,8 @@ namespace Seeker.Services.Switch
             {
                 Columns = notification.Columns,
                 Strength = notification.Strength,
-                Alphabet = notification.Alphabet
+                Alphabet = notification.Alphabet,
+                Rows = notification.Rows
             };
             await _seekerProxy.SendCasToGeneratorAsync(command);
 

@@ -11,8 +11,10 @@ namespace Generator.Services.Proxies.Seeker.Commands
         public int Strength { get; set; } // fuerza
         public string Alphabet { get; set; } //Alfabeto
         public int Rows { get; set; } //Columnas
-        public string CA_notes { get; set; } // Arreglo de covertura
-        
+        public string CA_notes { get; set; } // Arreglo de covertura4
+
+        public int Aux { get; set; } // fuerza
+
 
         //atributos
         //public long ca_id { get; set; } //Id de arreglo
