@@ -11,6 +11,9 @@ namespace Generator.Services.business_logic
     public class Generator_logic : INotificationHandler<CasSeekertoGeneratorlogic>
     {
         private readonly ISeekerProxy _seekerProxy;
+        private int cont = 1;
+       
+
         // inyeccion dependencias de la clase seekerProxy
         public Generator_logic(
             ISeekerProxy seekerProxy
@@ -21,8 +24,8 @@ namespace Generator.Services.business_logic
 
         public async Task Handle(CasSeekertoGeneratorlogic notification, CancellationToken cancellationToken)
         {
+            
             String Alphabet = notification.Alphabet;
-
             String[] Variables = Alphabet.Split(',');
             int num_Variables = Variables.Length;
             String concatenado = "";
@@ -48,10 +51,9 @@ namespace Generator.Services.business_logic
 
             var myAlgorithm = new AlgoritmoParalelo(theGenerator, theRequiredCA,
                                               theSeed, theParameters);
-            
-            var sol = myAlgorithm.Ejecutar();
-            var sol2 = sol.Fitness;
-         
+                var sol = myAlgorithm.Ejecutar();
+                var sol2 = sol.Fitness;
+       
             var command = new CasCreateCommandSeeker()
             {
                 

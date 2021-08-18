@@ -1,0 +1,9 @@
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Domain\bin\Debug\netcoreapp3.1\Generator.Domain.deps.json
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Domain\bin\Debug\netcoreapp3.1\Generator.Domain.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Domain\bin\Debug\netcoreapp3.1\Generator.Domain.pdb
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Domain\obj\Debug\netcoreapp3.1\Generator.Domain.csproj.AssemblyReference.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Domain\obj\Debug\netcoreapp3.1\Generator.Domain.AssemblyInfoInputs.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Domain\obj\Debug\netcoreapp3.1\Generator.Domain.AssemblyInfo.cs
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Domain\obj\Debug\netcoreapp3.1\Generator.Domain.csproj.CoreCompileInputs.cache
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Domain\obj\Debug\netcoreapp3.1\Generator.Domain.dll
+D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Domain\obj\Debug\netcoreapp3.1\Generator.Domain.pdb

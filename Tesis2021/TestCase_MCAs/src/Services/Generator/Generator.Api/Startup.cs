@@ -1,4 +1,4 @@
-using Generator.Services.Proxies;
+﻿using Generator.Services.Proxies;
 using Generator.Services.Proxies.Seeker;
 using MediatR;
 using Microsoft.AspNetCore.Builder;
@@ -15,6 +15,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
+using Microsoft.EntityFrameworkCore;
+using Generator;
 
 namespace Generator.Api
 {
@@ -41,6 +43,10 @@ namespace Generator.Api
 
             //
             services.AddControllers();
+
+            services.AddDbContext<ApiContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("ApiContext")));
+
             //services.AddSwaggerGen(c =>
             //{
             //    c.SwaggerDoc("v1", new OpenApiInfo { Title = "Generator.Api", Version = "v1" });
