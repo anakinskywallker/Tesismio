@@ -21,8 +21,10 @@ namespace Generator.Services.business_logic
 
         public async Task Handle(CasSeekertoGeneratorlogic notification, CancellationToken cancellationToken)
         {
+            string Alphabet = constructAlphabet(notification.Alphabet);
+            string strContruct = "N" + notification.Rows + "K" + notification.Columns + "V" + Alphabet + "t" + notification.Strength + ".ca";
             const string theGenerator = "ISA";
-            const string theRequiredCA = "N16K8V4^4-3^1-2^3t2.ca";
+            string theRequiredCA = strContruct;
             const int theSeed = 1;
             const string theParameters = "500 500";
 
@@ -31,9 +33,7 @@ namespace Generator.Services.business_logic
             
             var sol = myAlgorithm.Ejecutar();
             var sol2 = sol.Fitness;
-             // Console.WriteLine(sol.MiCA.ToString());
-              //Console.WriteLine("Fitness = " + sol.Fitness);
-             // Console.ReadKey();
+            
 
             var command = new CasCreateCommandSeeker()
             {
@@ -47,6 +47,27 @@ namespace Generator.Services.business_logic
             };
 
             await _seekerProxy.SendCasAsync(command);
+        }
+        public string constructAlphabet(string Alphabet) {
+            
+            String[] Variables = Alphabet.Split(',');
+            int num_Variables = Variables.Length;
+            String concatenado = "";
+
+            for (int i = 0; i < Variables.Length; i++)
+            {
+
+                concatenado = concatenado + Variables[i] + "^";
+                if (i < (Variables.Length - 1))
+                {
+                    concatenado = concatenado + "1-";
+                }
+                else
+                {
+                    concatenado = concatenado + "1";
+                }
+            }
+            return concatenado;
         }
     }
 }

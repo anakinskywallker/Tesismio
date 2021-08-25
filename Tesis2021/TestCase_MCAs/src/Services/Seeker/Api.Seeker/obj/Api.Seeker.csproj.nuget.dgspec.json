@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Api.Seeker\\Api.Seeker.csproj": {}
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Api.Seeker\\Api.Seeker.csproj": {}
   },
   "projects": {
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Api.Seeker\\Api.Seeker.csproj": {
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Api.Seeker\\Api.Seeker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Api.Seeker\\Api.Seeker.csproj",
+        "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Api.Seeker\\Api.Seeker.csproj",
         "projectName": "Api.Seeker",
-        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Api.Seeker\\Api.Seeker.csproj",
+        "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Api.Seeker\\Api.Seeker.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Api.Seeker\\obj\\",
+        "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Api.Seeker\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -32,26 +32,26 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj"
               },
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj"
               },
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj"
               },
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj"
               },
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Quieries\\Seeker.Services.Quieries.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Quieries\\Seeker.Services.Quieries.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Quieries\\Seeker.Services.Quieries.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Quieries\\Seeker.Services.Quieries.csproj"
               },
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.SendtoGenerator\\Seeker.Services.Send.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.SendtoGenerator\\Seeker.Services.Send.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.SendtoGenerator\\Seeker.Services.Send.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.SendtoGenerator\\Seeker.Services.Send.csproj"
               },
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj"
               }
             }
           }
@@ -125,14 +125,14 @@
         }
       }
     },
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj": {
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj",
+        "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj",
         "projectName": "Seeker.Persistence.Database",
-        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj",
+        "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\obj\\",
+        "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -153,8 +153,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj"
               }
             }
           }
@@ -193,14 +193,14 @@
         }
       }
     },
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj": {
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj",
+        "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj",
         "projectName": "Seeker.Domain",
-        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj",
+        "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\obj\\",
+        "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -251,14 +251,14 @@
         }
       }
     },
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj": {
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj",
+        "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj",
         "projectName": "Seeker.Services.EventHandlers",
-        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj",
+        "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\obj\\",
+        "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -279,8 +279,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj"
               }
             }
           }
@@ -319,14 +319,14 @@
         }
       }
     },
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj": {
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj",
+        "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj",
         "projectName": "Seeker.Services.Proxies",
-        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj",
+        "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\obj\\",
+        "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -387,14 +387,14 @@
         }
       }
     },
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Quieries\\Seeker.Services.Quieries.csproj": {
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Quieries\\Seeker.Services.Quieries.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Quieries\\Seeker.Services.Quieries.csproj",
+        "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Quieries\\Seeker.Services.Quieries.csproj",
         "projectName": "Seeker.Services.Quieries",
-        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Quieries\\Seeker.Services.Quieries.csproj",
+        "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Quieries\\Seeker.Services.Quieries.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Quieries\\obj\\",
+        "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Quieries\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -415,17 +415,17 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\AplicacionDbContext\\Seeker.Persistence.Database\\Seeker.Persistence.Database.csproj"
               },
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj"
               },
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj"
               },
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\Service.Common.Paging.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\Service.Common.Paging.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\Service.Common.Paging.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\Service.Common.Paging.csproj"
               }
             }
           }
@@ -458,14 +458,14 @@
         }
       }
     },
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.SendtoGenerator\\Seeker.Services.Send.csproj": {
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.SendtoGenerator\\Seeker.Services.Send.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.SendtoGenerator\\Seeker.Services.Send.csproj",
+        "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.SendtoGenerator\\Seeker.Services.Send.csproj",
         "projectName": "Seeker.Services.Send",
-        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.SendtoGenerator\\Seeker.Services.Send.csproj",
+        "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.SendtoGenerator\\Seeker.Services.Send.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.SendtoGenerator\\obj\\",
+        "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.SendtoGenerator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -486,8 +486,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj"
               }
             }
           }
@@ -526,14 +526,14 @@
         }
       }
     },
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj": {
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
+        "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
         "projectName": "Seeker.Services.Switch",
-        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
+        "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\obj\\",
+        "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -554,8 +554,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj"
               }
             }
           }
@@ -594,14 +594,14 @@
         }
       }
     },
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj",
+        "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj",
         "projectName": "Service.Common.Collection",
-        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj",
+        "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\obj\\",
+        "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -652,14 +652,14 @@
         }
       }
     },
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
+        "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
         "projectName": "Service.Common.Mapping",
-        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
+        "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\Service.Common.Mapping.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\obj\\",
+        "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Mapping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -710,14 +710,14 @@
         }
       }
     },
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\Service.Common.Paging.csproj": {
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\Service.Common.Paging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\Service.Common.Paging.csproj",
+        "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\Service.Common.Paging.csproj",
         "projectName": "Service.Common.Paging",
-        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\Service.Common.Paging.csproj",
+        "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\Service.Common.Paging.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\obj\\",
+        "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -738,8 +738,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj"
               }
             }
           }

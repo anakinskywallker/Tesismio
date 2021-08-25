@@ -24,3 +24,12 @@ D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Se
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Proxies\obj\Debug\netcoreapp3.1\Generator.Services.Proxies.csproj.CoreCompileInputs.cache
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Proxies\obj\Debug\netcoreapp3.1\Generator.Services.Proxies.dll
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Proxies\obj\Debug\netcoreapp3.1\Generator.Services.Proxies.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Proxies\bin\Debug\netcoreapp3.1\Generator.Services.Proxies.deps.json
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Proxies\bin\Debug\netcoreapp3.1\Generator.Services.Proxies.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Proxies\bin\Debug\netcoreapp3.1\Generator.Services.Proxies.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Proxies\obj\Debug\netcoreapp3.1\Generator.Services.Proxies.csproj.AssemblyReference.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Proxies\obj\Debug\netcoreapp3.1\Generator.Services.Proxies.AssemblyInfoInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Proxies\obj\Debug\netcoreapp3.1\Generator.Services.Proxies.AssemblyInfo.cs
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Proxies\obj\Debug\netcoreapp3.1\Generator.Services.Proxies.csproj.CoreCompileInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Proxies\obj\Debug\netcoreapp3.1\Generator.Services.Proxies.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Generator\Generator.Services.Proxies\obj\Debug\netcoreapp3.1\Generator.Services.Proxies.pdb

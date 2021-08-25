@@ -40,3 +40,17 @@ D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\obj\Debug\netcoreapp3.1\Seeker.Services.EventHandlers.csproj.CopyComplete
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\obj\Debug\netcoreapp3.1\Seeker.Services.EventHandlers.dll
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\obj\Debug\netcoreapp3.1\Seeker.Services.EventHandlers.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\bin\Debug\netcoreapp3.1\Seeker.Services.EventHandlers.deps.json
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\bin\Debug\netcoreapp3.1\Seeker.Services.EventHandlers.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\bin\Debug\netcoreapp3.1\Seeker.Services.EventHandlers.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\bin\Debug\netcoreapp3.1\Seeker.Domain.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\bin\Debug\netcoreapp3.1\Seeker.Persistence.Database.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\bin\Debug\netcoreapp3.1\Seeker.Persistence.Database.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\bin\Debug\netcoreapp3.1\Seeker.Domain.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\obj\Debug\netcoreapp3.1\Seeker.Services.EventHandlers.csproj.AssemblyReference.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\obj\Debug\netcoreapp3.1\Seeker.Services.EventHandlers.AssemblyInfoInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\obj\Debug\netcoreapp3.1\Seeker.Services.EventHandlers.AssemblyInfo.cs
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\obj\Debug\netcoreapp3.1\Seeker.Services.EventHandlers.csproj.CoreCompileInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\obj\Debug\netcoreapp3.1\Seeker.Services.EventHandlers.csproj.CopyComplete
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\obj\Debug\netcoreapp3.1\Seeker.Services.EventHandlers.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.EventHandlers\obj\Debug\netcoreapp3.1\Seeker.Services.EventHandlers.pdb

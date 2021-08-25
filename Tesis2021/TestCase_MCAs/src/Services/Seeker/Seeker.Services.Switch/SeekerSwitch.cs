@@ -22,7 +22,24 @@ namespace Seeker.Services.Switch
         {
             int Columns = notification.Columns;
             int Strength = notification.Strength;
-            String Alphabet = notification.Alphabet;
+            String Alphabet = strConstruct(notification.Alphabet);
+                       
+            // Aqui va la logica para discrimiar el envio ya sea a Genrator o a Optimizer 
+            
+            //Logica para ir a Generator 
+            var command = new CasSeekerCommandProxies()
+            {
+                Columns = notification.Columns,
+                Strength = notification.Strength,
+                Alphabet = notification.Alphabet,
+                Rows = notification.Rows
+            };
+            await _seekerProxy.SendCasToGeneratorAsync(command);
+
+            //Logica para ir a Posoptimizador 
+        }
+        public String strConstruct(String Alphabet)
+        {
 
             String[] Variables = Alphabet.Split(',');
             int[] num_Variables = new int[Variables.Length];
@@ -42,21 +59,9 @@ namespace Seeker.Services.Switch
                 }
             }
             concatenado = concatenado + "]%";
-            String strFinal = concatenado;
+            return concatenado;
 
-
-            // Aqui va la logica para discrimiar el envio ya sea a Genrator o a Optimizer 
-            
-            //Logica para ir a Generator 
-            var command = new CasSeekerCommandProxies()
-            {
-                Columns = notification.Columns,
-                Strength = notification.Strength,
-                Alphabet = notification.Alphabet
-            };
-            await _seekerProxy.SendCasToGeneratorAsync(command);
-
-            //Logica para ir a Posoptimizador 
         }
     }
+
 }

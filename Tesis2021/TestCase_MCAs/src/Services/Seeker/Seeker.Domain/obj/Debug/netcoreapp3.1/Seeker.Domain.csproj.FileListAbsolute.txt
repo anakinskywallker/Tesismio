@@ -43,3 +43,12 @@ D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Domain\o
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Domain\obj\Debug\netcoreapp3.1\Seeker.Domain.csproj.CoreCompileInputs.cache
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Domain\obj\Debug\netcoreapp3.1\Seeker.Domain.dll
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Domain\obj\Debug\netcoreapp3.1\Seeker.Domain.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Domain\bin\Debug\netcoreapp3.1\Seeker.Domain.deps.json
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Domain\bin\Debug\netcoreapp3.1\Seeker.Domain.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Domain\bin\Debug\netcoreapp3.1\Seeker.Domain.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Domain\obj\Debug\netcoreapp3.1\Seeker.Domain.csproj.AssemblyReference.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Domain\obj\Debug\netcoreapp3.1\Seeker.Domain.AssemblyInfoInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Domain\obj\Debug\netcoreapp3.1\Seeker.Domain.AssemblyInfo.cs
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Domain\obj\Debug\netcoreapp3.1\Seeker.Domain.csproj.CoreCompileInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Domain\obj\Debug\netcoreapp3.1\Seeker.Domain.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Domain\obj\Debug\netcoreapp3.1\Seeker.Domain.pdb

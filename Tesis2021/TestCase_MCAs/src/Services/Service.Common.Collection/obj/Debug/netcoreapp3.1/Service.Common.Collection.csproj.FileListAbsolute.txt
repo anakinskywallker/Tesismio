@@ -34,3 +34,12 @@ D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Collect
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csproj.CoreCompileInputs.cache
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.dll
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.deps.json
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Collection\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csproj.AssemblyReference.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfoInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.AssemblyInfo.cs
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.csproj.CoreCompileInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Collection\obj\Debug\netcoreapp3.1\Service.Common.Collection.pdb

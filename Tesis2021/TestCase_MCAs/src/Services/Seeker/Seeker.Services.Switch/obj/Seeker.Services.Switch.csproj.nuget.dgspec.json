@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj": {}
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj": {}
   },
   "projects": {
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj": {
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj",
+        "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj",
         "projectName": "Seeker.Services.Proxies",
-        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj",
+        "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\obj\\",
+        "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -72,14 +72,14 @@
         }
       }
     },
-    "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj": {
+    "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
+        "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
         "projectName": "Seeker.Services.Switch",
-        "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
+        "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
         "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-        "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\obj\\",
+        "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -100,8 +100,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj": {
-                "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj"
+              "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj": {
+                "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj"
               }
             }
           }

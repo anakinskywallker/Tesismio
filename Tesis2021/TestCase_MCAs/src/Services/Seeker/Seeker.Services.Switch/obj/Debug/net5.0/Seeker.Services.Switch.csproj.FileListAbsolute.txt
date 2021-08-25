@@ -25,3 +25,18 @@ D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeke
 D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\obj\Debug\net5.0\Seeker.Services.Switch.dll
 D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\obj\Debug\net5.0\ref\Seeker.Services.Switch.dll
 D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\obj\Debug\net5.0\Seeker.Services.Switch.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\bin\Debug\net5.0\Seeker.Services.Switch.deps.json
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\bin\Debug\net5.0\Seeker.Services.Switch.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\bin\Debug\net5.0\ref\Seeker.Services.Switch.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\bin\Debug\net5.0\Seeker.Services.Switch.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\bin\Debug\net5.0\Seeker.Services.Proxies.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\bin\Debug\net5.0\Seeker.Services.Proxies.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\obj\Debug\net5.0\Seeker.Services.Switch.csproj.AssemblyReference.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\obj\Debug\net5.0\Seeker.Services.Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\obj\Debug\net5.0\Seeker.Services.Switch.AssemblyInfoInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\obj\Debug\net5.0\Seeker.Services.Switch.AssemblyInfo.cs
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\obj\Debug\net5.0\Seeker.Services.Switch.csproj.CoreCompileInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\obj\Debug\net5.0\Seeker.Services.Switch.csproj.CopyComplete
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\obj\Debug\net5.0\Seeker.Services.Switch.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\obj\Debug\net5.0\ref\Seeker.Services.Switch.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.Switch\obj\Debug\net5.0\Seeker.Services.Switch.pdb

@@ -45,11 +45,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.BusinessLogic\\Optimizer.Services.BusinessLogic.csproj",
+      "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.BusinessLogic\\Optimizer.Services.BusinessLogic.csproj",
       "projectName": "Optimizer.Services.BusinessLogic",
-      "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.BusinessLogic\\Optimizer.Services.BusinessLogic.csproj",
+      "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.BusinessLogic\\Optimizer.Services.BusinessLogic.csproj",
       "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-      "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.BusinessLogic\\obj\\",
+      "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.BusinessLogic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

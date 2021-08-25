@@ -159,11 +159,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.EventHandlers\\Optimizer.Services.SendtoSeeker.csproj",
+      "projectUniqueName": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.EventHandlers\\Optimizer.Services.SendtoSeeker.csproj",
       "projectName": "Optimizer.Services.SendtoSeeker",
-      "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.EventHandlers\\Optimizer.Services.SendtoSeeker.csproj",
+      "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.EventHandlers\\Optimizer.Services.SendtoSeeker.csproj",
       "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-      "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.EventHandlers\\obj\\",
+      "outputPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.EventHandlers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -184,8 +184,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.Proxies2\\Optimizer.Services.Proxies\\Optimizer.Services.Proxies.csproj": {
-              "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.Proxies2\\Optimizer.Services.Proxies\\Optimizer.Services.Proxies.csproj"
+            "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.Proxies2\\Optimizer.Services.Proxies\\Optimizer.Services.Proxies.csproj": {
+              "projectPath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.Proxies2\\Optimizer.Services.Proxies\\Optimizer.Services.Proxies.csproj"
             }
           }
         }

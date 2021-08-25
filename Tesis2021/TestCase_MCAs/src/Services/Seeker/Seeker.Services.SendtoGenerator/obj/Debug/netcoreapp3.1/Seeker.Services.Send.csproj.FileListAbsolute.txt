@@ -58,3 +58,15 @@ D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeke
 D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\obj\Debug\netcoreapp3.1\Seeker.Services.Send.csproj.CopyComplete
 D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\obj\Debug\netcoreapp3.1\Seeker.Services.Send.dll
 D:\Tesis\VersionesGIt\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\obj\Debug\netcoreapp3.1\Seeker.Services.Send.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\bin\Debug\netcoreapp3.1\Seeker.Services.Send.deps.json
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\bin\Debug\netcoreapp3.1\Seeker.Services.Send.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\bin\Debug\netcoreapp3.1\Seeker.Services.Send.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\bin\Debug\netcoreapp3.1\Seeker.Services.Proxies.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\bin\Debug\netcoreapp3.1\Seeker.Services.Proxies.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\obj\Debug\netcoreapp3.1\Seeker.Services.Send.csproj.AssemblyReference.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\obj\Debug\netcoreapp3.1\Seeker.Services.Send.AssemblyInfoInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\obj\Debug\netcoreapp3.1\Seeker.Services.Send.AssemblyInfo.cs
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\obj\Debug\netcoreapp3.1\Seeker.Services.Send.csproj.CoreCompileInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\obj\Debug\netcoreapp3.1\Seeker.Services.Send.csproj.CopyComplete
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\obj\Debug\netcoreapp3.1\Seeker.Services.Send.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\Seeker.Services.SendtoGenerator\obj\Debug\netcoreapp3.1\Seeker.Services.Send.pdb

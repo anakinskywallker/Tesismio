@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bIf9wYNHYXxTYzUlIymMZQ8Qct2/4o/a5/e5SSWw3G3ay1u0c8cMkONhkActpR/ZLHaeQ2THPY7qCcug42Fr9A==",
+  "dgSpecHash": "jaAb9zkC6NIED0EQ6KJEQcN17g1VAuhHBrOQv/z4j883ic3uTHSqjZnm7N4fnPaX5Vw/+r2fVnCFkYPKCws7qw==",
   "success": true,
-  "projectFilePath": "D:\\Tesis\\VersionesGIt\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj",
+  "projectFilePath": "D:\\Tesis 2\\Tesismio\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Domain\\Seeker.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

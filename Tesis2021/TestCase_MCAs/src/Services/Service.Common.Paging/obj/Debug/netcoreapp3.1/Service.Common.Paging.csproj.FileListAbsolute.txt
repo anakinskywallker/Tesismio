@@ -34,3 +34,15 @@ D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CopyComplete
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.dll
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.deps.json
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Paging.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\bin\Debug\netcoreapp3.1\Service.Common.Collection.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.AssemblyReference.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfoInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.AssemblyInfo.cs
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CoreCompileInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.csproj.CopyComplete
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Service.Common.Paging\obj\Debug\netcoreapp3.1\Service.Common.Paging.pdb

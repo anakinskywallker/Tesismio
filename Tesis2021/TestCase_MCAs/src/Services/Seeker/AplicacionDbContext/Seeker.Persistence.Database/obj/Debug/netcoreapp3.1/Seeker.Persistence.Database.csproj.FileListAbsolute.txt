@@ -46,3 +46,15 @@ D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbCon
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\obj\Debug\netcoreapp3.1\Seeker.Persistence.Database.csproj.CopyComplete
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\obj\Debug\netcoreapp3.1\Seeker.Persistence.Database.dll
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\obj\Debug\netcoreapp3.1\Seeker.Persistence.Database.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\bin\Debug\netcoreapp3.1\Seeker.Persistence.Database.deps.json
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\bin\Debug\netcoreapp3.1\Seeker.Persistence.Database.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\bin\Debug\netcoreapp3.1\Seeker.Persistence.Database.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\bin\Debug\netcoreapp3.1\Seeker.Domain.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\bin\Debug\netcoreapp3.1\Seeker.Domain.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\obj\Debug\netcoreapp3.1\Seeker.Persistence.Database.csproj.AssemblyReference.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\obj\Debug\netcoreapp3.1\Seeker.Persistence.Database.AssemblyInfoInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\obj\Debug\netcoreapp3.1\Seeker.Persistence.Database.AssemblyInfo.cs
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\obj\Debug\netcoreapp3.1\Seeker.Persistence.Database.csproj.CoreCompileInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\obj\Debug\netcoreapp3.1\Seeker.Persistence.Database.csproj.CopyComplete
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\obj\Debug\netcoreapp3.1\Seeker.Persistence.Database.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Seeker\AplicacionDbContext\Seeker.Persistence.Database\obj\Debug\netcoreapp3.1\Seeker.Persistence.Database.pdb

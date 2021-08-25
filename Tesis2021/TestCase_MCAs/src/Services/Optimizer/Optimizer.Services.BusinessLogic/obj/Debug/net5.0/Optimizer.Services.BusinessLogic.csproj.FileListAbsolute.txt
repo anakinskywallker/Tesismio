@@ -21,3 +21,15 @@ D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Se
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\obj\Debug\net5.0\Optimizer.Services.BusinessLogic.dll
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\obj\Debug\net5.0\ref\Optimizer.Services.BusinessLogic.dll
 D:\Tesis\Version 1.1\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\obj\Debug\net5.0\Optimizer.Services.BusinessLogic.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\bin\Debug\net5.0\Optimizer.Services.BusinessLogic.deps.json
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\bin\Debug\net5.0\Optimizer.Services.BusinessLogic.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\bin\Debug\net5.0\ref\Optimizer.Services.BusinessLogic.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\bin\Debug\net5.0\Optimizer.Services.BusinessLogic.pdb
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\obj\Debug\net5.0\Optimizer.Services.BusinessLogic.csproj.AssemblyReference.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\obj\Debug\net5.0\Optimizer.Services.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\obj\Debug\net5.0\Optimizer.Services.BusinessLogic.AssemblyInfoInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\obj\Debug\net5.0\Optimizer.Services.BusinessLogic.AssemblyInfo.cs
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\obj\Debug\net5.0\Optimizer.Services.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\obj\Debug\net5.0\Optimizer.Services.BusinessLogic.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\obj\Debug\net5.0\ref\Optimizer.Services.BusinessLogic.dll
+D:\Tesis 2\Tesismio\Tesis2021\TestCase_MCAs\src\Services\Optimizer\Optimizer.Services.BusinessLogic\obj\Debug\net5.0\Optimizer.Services.BusinessLogic.pdb
