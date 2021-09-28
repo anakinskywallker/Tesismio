@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NwbUk5RVKE/8xb9to466eNRtzoXVkv2uc5Lbe7nmxUc+VcbL3hz+m66Z/GG6OWpOuD8cnfvhs+OMiBaH6wgl5A==",
+  "dgSpecHash": "nHjL3F/mQUr0I7XI7o4385oCGZ0y4uVLAhbwhIlVAQcdmTWQi/YeNImxTYDidq5Hn5L8bmcjqkC10m6jGIw3NA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
+  "projectFilePath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrés\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Andrés\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",

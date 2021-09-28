@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7TBt3qGSxEpK1UPM2fP0zV2DOvPPGnlspDSHOMnKaStXDcuoydVpC5G3biPs2iUjuS8Ph/MjQ8EQobVeNydCeA==",
+  "dgSpecHash": "fv6fCOJ3io774er0Nax7HLKiJuddpfCJowPQsA0t1mB2f2sDn2mtcJmreaQhOkQWu0qZ61Eg3HZLjj53ETwuGw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Api.Seeker\\Api.Seeker.csproj",
+  "projectFilePath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Seeker\\Api.Seeker\\Api.Seeker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrés\\.nuget\\packages\\aspnetcore.healthchecks.ui\\5.0.1\\aspnetcore.healthchecks.ui.5.0.1.nupkg.sha512",
     "C:\\Users\\Andrés\\.nuget\\packages\\aspnetcore.healthchecks.ui.client\\5.0.1\\aspnetcore.healthchecks.ui.client.5.0.1.nupkg.sha512",

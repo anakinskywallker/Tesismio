@@ -550,11 +550,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\Service.Common.Paging.csproj",
+      "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\Service.Common.Paging.csproj",
       "projectName": "Service.Common.Paging",
-      "projectPath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\Service.Common.Paging.csproj",
+      "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\Service.Common.Paging.csproj",
       "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\obj\\",
+      "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Service.Common.Paging\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -575,8 +575,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj": {
-              "projectPath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj"
+            "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj": {
+              "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Service.Common.Collection\\Service.Common.Collection.csproj"
             }
           }
         }

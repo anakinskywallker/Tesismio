@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H7TAaDyzbr86af+jL7Z+U4T2ik3Al/le4FTT7WeiwUMR+89YjFjwX8/mRwDWbQtClB/LKLdxUeqNX573L1Z0+g==",
+  "dgSpecHash": "ceu06idCPt8Ghxw0HUHZRRlUHMmUlORAyQ910LuEcFvRlPfxP1yzuUp+xOhpwI6ZzNg7AmtRiYH6UEgQX8AYbg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Quieries\\Seeker.Services.Quieries.csproj",
+  "projectFilePath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Quieries\\Seeker.Services.Quieries.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrés\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.4\\microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
     "C:\\Users\\Andrés\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.4\\microsoft.entityframeworkcore.abstractions.5.0.4.nupkg.sha512",

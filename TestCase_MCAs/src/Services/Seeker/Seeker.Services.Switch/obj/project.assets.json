@@ -160,11 +160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
+      "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
       "projectName": "Seeker.Services.Switch",
-      "projectPath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
+      "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\Seeker.Services.Switch.csproj",
       "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\obj\\",
+      "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Switch\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -185,8 +185,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj": {
-              "projectPath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj"
+            "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj": {
+              "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.Proxies\\Seeker.Services.Proxies.csproj"
             }
           }
         }

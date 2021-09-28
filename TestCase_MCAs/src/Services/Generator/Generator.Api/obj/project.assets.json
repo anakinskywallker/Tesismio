@@ -427,11 +427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Api\\Generator.Api.csproj",
+      "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Api\\Generator.Api.csproj",
       "projectName": "Generator.Api",
-      "projectPath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Api\\Generator.Api.csproj",
+      "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Api\\Generator.Api.csproj",
       "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Api\\obj\\",
+      "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -452,14 +452,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Generator\\business_logic\\Generator.Services.business_logic.csproj": {
-              "projectPath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Generator\\business_logic\\Generator.Services.business_logic.csproj"
+            "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Generator\\business_logic\\Generator.Services.business_logic.csproj": {
+              "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Generator\\business_logic\\Generator.Services.business_logic.csproj"
             },
-            "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Services.Proxies\\Generator.Services.Proxies.csproj": {
-              "projectPath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Services.Proxies\\Generator.Services.Proxies.csproj"
+            "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Services.Proxies\\Generator.Services.Proxies.csproj": {
+              "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Services.Proxies\\Generator.Services.Proxies.csproj"
             },
-            "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Servies.EventHandlers\\Generator.Services.SendtoSeeker.csproj": {
-              "projectPath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Servies.EventHandlers\\Generator.Services.SendtoSeeker.csproj"
+            "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Servies.EventHandlers\\Generator.Services.SendtoSeeker.csproj": {
+              "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Servies.EventHandlers\\Generator.Services.SendtoSeeker.csproj"
             }
           }
         }

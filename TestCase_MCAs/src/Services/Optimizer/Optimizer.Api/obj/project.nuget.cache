@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WqfcL1l6Qi+Pu9Eg/AXkFsKzCbAU+hngLIq8P/rhkw2wsYtuZUYsz/cTSUC9ux67l/q/rPCSAdR+YZ8gpLofkg==",
+  "dgSpecHash": "Ai6ihLuly4Vg88sMD3IhmNx83kXl1lldncdMMErtU6okKaMcspUbckoD0/RGjF+ypO+6erhZRMI/GvBF+S8Erw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Api\\Optimizer.Api.csproj",
+  "projectFilePath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Api\\Optimizer.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrés\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Andrés\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",

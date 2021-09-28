@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tbwi4AkqNRBbr62wn4xdBxGwTBIJvnBc0qHltbX9oWUxK0pk+MYGaJbeWZBDlBXeKidJhIGpa5eG8aT3qvl63w==",
+  "dgSpecHash": "t2eGfiysae23lTOQtZymVYnc7JGW9x9uJEOcO4XyE2yrg07lkePc1+EOZ6ECO8EiDOr530dWePzWnPmTtc9EAg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.EventHandlers\\Optimizer.Services.SendtoSeeker.csproj",
+  "projectFilePath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Optimizer\\Optimizer.Services.EventHandlers\\Optimizer.Services.SendtoSeeker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrés\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Andrés\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",

@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Services.Proxies\\Generator.Services.Proxies.csproj",
+      "projectUniqueName": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Services.Proxies\\Generator.Services.Proxies.csproj",
       "projectName": "Generator.Services.Proxies",
-      "projectPath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Services.Proxies\\Generator.Services.Proxies.csproj",
+      "projectPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Services.Proxies\\Generator.Services.Proxies.csproj",
       "packagesPath": "C:\\Users\\Andrés\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Services.Proxies\\obj\\",
+      "outputPath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Generator\\Generator.Services.Proxies\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

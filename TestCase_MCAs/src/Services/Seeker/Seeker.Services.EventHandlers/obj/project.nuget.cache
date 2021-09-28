@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WpI0r1JneeyjOkQedp5I4+I15w7WBSxhU0ed85FXg5fWUOU45QaXALQ588J9rjQxEUwkXGVjKT3KRcJZqB/U4w==",
+  "dgSpecHash": "YGA7rFZBeh8D+06y79MomSeU5b6GQFZqCoxnJDI0PsElUxtk6ePCeMtubHt3pLANr/nG6qq9Ina8wzOCSbwRrg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andrés\\Desktop\\Tesis\\New\\Tesis2021\\Tesis2021\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj",
+  "projectFilePath": "D:\\Tesis\\VersionesGIt\\Tesismio\\TestCase_MCAs\\src\\Services\\Seeker\\Seeker.Services.EventHandlers\\Seeker.Services.EventHandlers.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andrés\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Andrés\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.4\\microsoft.entityframeworkcore.5.0.4.nupkg.sha512",
