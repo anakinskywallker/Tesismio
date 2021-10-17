@@ -19,7 +19,7 @@ namespace Generator.Services.business_logic.Logica.MetaHeuristicas.IteradosSA
             var rnd = new Random(Semilla);
 
             // 1. Inicializar el CA
-            Best = new Solucion(N, K, V, T);
+            Best = new Solucion(N, K, V, T); // Matriz donde esta el CA
             Best.GenerarAletario(rnd, 5);
             MiP.Limpiar();
             Best.CalcularFitness(MiP);
@@ -44,6 +44,9 @@ namespace Generator.Services.business_logic.Logica.MetaHeuristicas.IteradosSA
                     Best = copiaArmonia; 
                     MiP = miP2; 
                 }
+
+
+
                 Console.WriteLine("iteracion = " + i + " Fitness = " + Best.Fitness);
             }
         }

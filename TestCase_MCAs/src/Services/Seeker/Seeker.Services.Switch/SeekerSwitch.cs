@@ -18,15 +18,10 @@ namespace Seeker.Services.Switch
         {
             _seekerProxy = seekerProxy;
         }
+        // Peticion de creacion en servicio Generador 
         public async Task Handle(CasSeekerSwitchCommand notification, CancellationToken cancellationToken)
         {
-            int Columns = notification.Columns;
-            int Strength = notification.Strength;
-            String Alphabet = strConstruct(notification.Alphabet);
-
-            // Aqui va la logica para discrimiar el envio ya sea a Genrator o a Optimizer 
-
-            // Logica para ir a Generator 
+             
             var command = new CasSeekerCommandProxies()
             {
                 Columns = notification.Columns,
@@ -34,32 +29,6 @@ namespace Seeker.Services.Switch
                 Alphabet = notification.Alphabet
             };
             await _seekerProxy.SendCasToGeneratorAsync(command);
-
-            //Logica para ir a Posoptimizador 
-        }
-        public string strConstruct(String Alphabet)
-        {
-
-            String[] Variables = Alphabet.Split(',');
-            int[] num_Variables = new int[Variables.Length];
-            String concatenado = "";
-
-            for (int i = 0; i < Variables.Length; i++)
-            {
-                num_Variables[i] = Int32.Parse(Variables[i]);
-                concatenado = concatenado + "[";
-                for (int j = num_Variables[i]; j <= 9; j++)
-                {
-                    concatenado = concatenado + j;
-                }
-                if (i < Variables.Length - 1)
-                {
-                    concatenado = concatenado + "],";
-                }
-            }
-            concatenado = concatenado + "]%";
-            return concatenado;
-
         }
     }
 }

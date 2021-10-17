@@ -34,14 +34,7 @@ namespace Api.Seeker.Controllers
         {
             return "TestCase Controlador de Busqueda Especializada";
         }
-
-        //[HttpPost]
-        //public async Task<IActionResult> Create(CasSeekerSwitchCommand command)
-        //{
-        //    await _mediator.Publish(command);
-        //    return Ok();
-        //}
-
+        
         [HttpPost]
         public async Task<ActionResult<IEnumerable<CaRepository>>> GetCaRepositorybaseoncondicion(CasSeekerSwitchCommand command)
         {

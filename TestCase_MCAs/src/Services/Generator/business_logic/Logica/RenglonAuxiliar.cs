@@ -32,17 +32,11 @@ namespace Generator.Services.business_logic.Logica
         public void CalcularSimilitudes (int[][] renglonesDelCA, int tope)
         {
             Similitud = 0;
-            SimilitudMaxima = 0;
-
             for (var fila = 0; fila < tope; fila++)
             {
-                var sim = 0;
                 for (var columna = 0; columna < K; columna++)
                     if (Renglon[columna] == renglonesDelCA[fila][columna])
-                        sim++;
-                if (sim > SimilitudMaxima)
-                    SimilitudMaxima = sim;
-                Similitud += sim;
+                       Similitud++;
             }
             Similitud = Similitud / tope;
         }

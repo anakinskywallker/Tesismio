@@ -81,6 +81,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seeker.Services.Proxies", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Seeker.Services.Switch", "src\Services\Seeker\Seeker.Services.Switch\Seeker.Services.Switch.csproj", "{6B4BCF5F-79EC-4B4E-AB51-7DFB40039C13}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05. Orquestador", "05. Orquestador", "{8621D2AE-47FC-47B7-9A52-5CEB2875B852}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orquestador", "src\Services\Orquestador\Orquestador\Orquestador.csproj", "{9A6D2005-4041-49D7-A1F2-3F0442319A89}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -241,6 +245,14 @@ Global
 		{6B4BCF5F-79EC-4B4E-AB51-7DFB40039C13}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6B4BCF5F-79EC-4B4E-AB51-7DFB40039C13}.Release|x86.ActiveCfg = Release|Any CPU
 		{6B4BCF5F-79EC-4B4E-AB51-7DFB40039C13}.Release|x86.Build.0 = Release|Any CPU
+		{9A6D2005-4041-49D7-A1F2-3F0442319A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A6D2005-4041-49D7-A1F2-3F0442319A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A6D2005-4041-49D7-A1F2-3F0442319A89}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9A6D2005-4041-49D7-A1F2-3F0442319A89}.Debug|x86.Build.0 = Debug|Any CPU
+		{9A6D2005-4041-49D7-A1F2-3F0442319A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A6D2005-4041-49D7-A1F2-3F0442319A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A6D2005-4041-49D7-A1F2-3F0442319A89}.Release|x86.ActiveCfg = Release|Any CPU
+		{9A6D2005-4041-49D7-A1F2-3F0442319A89}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -282,6 +294,8 @@ Global
 		{B0B5648C-26EB-420A-850A-D5C3FE382B9E} = {70D43B7D-9991-4DC6-B3F9-F8D36E4F387E}
 		{68F1567A-5BA6-4910-90AA-12609BA02445} = {2F49DD0E-5AC5-479D-BD04-BD62A68D27F9}
 		{6B4BCF5F-79EC-4B4E-AB51-7DFB40039C13} = {2F49DD0E-5AC5-479D-BD04-BD62A68D27F9}
+		{8621D2AE-47FC-47B7-9A52-5CEB2875B852} = {28F9733F-0D3D-449B-B0EE-A709F3CEDA96}
+		{9A6D2005-4041-49D7-A1F2-3F0442319A89} = {8621D2AE-47FC-47B7-9A52-5CEB2875B852}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {51521ED1-C029-4E7B-8EF2-8C440DF7FF36}

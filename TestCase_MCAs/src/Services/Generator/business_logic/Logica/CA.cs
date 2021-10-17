@@ -123,7 +123,7 @@ namespace Generator.Services.business_logic.Logica
                 if (iguales) return true;
             }
             return false;
-        }
+        } 
 
         public bool EsMenor(int[] fila1, int[] fila2)
         {
