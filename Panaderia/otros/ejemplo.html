@@ -1,0 +1,235 @@
+
+            <!DOCTYPE html>
+
+            <html lang="en">
+            <head>
+                <meta charset="UTF-8">
+                <title>CDA-1.0</title>
+
+                <link rel="stylesheet" href="../css/estilos.css">
+                <link rel="stylesheet" href="../css/banner.css">
+                <link rel="stylesheet" href="../css/fontello.css">
+                <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+            </head>
+
+            <body>
+                
+                
+                
+                <!-- USUARIO ADMINISTRADOR -->
+                <?php
+                    if($_SESSION["tipo_usuario"]=="Administrador"){        
+                ?>
+                    <header>    
+                        <div class="contenedor">
+                             <!-- boton menu-->
+
+                            <input type="checkbox" id="menu-bar">
+                            <label class="icon-menu" for="menu-bar"></label>
+
+                            <!-- titulo principal-->
+                            <div id="marca">
+                                <h1><a href="../IndexAdmin.php"><span class="resaltado" > CDA</span>Centro Diagnosito Automotriz</a></h1>
+                                <label1 >  </label1>
+                            </div>
+
+                            <!--menu-->
+                            <nav class="menu">
+                                    <ul class="nav">
+
+                                      
+                                        <li> 
+                                            <a href="">Adjuntar excel</a>
+                                            <ul>
+                                                <li><a href="">Motos</a></li>
+                                                <li><a href="../adjuntarArchivos/Disel.php">Disel</a></li>
+                                                <li><a href="../adjuntarArchivos/cicloottoexcel.php">Diclo otto</a></li>
+                                                <li><a href="../adjuntarArchivos/Completo.php">General</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="">Folder</a>
+                                            <ul>
+                                            <li><a href="../tabla/MotoTable.php"> motos </a></li>
+                                            <li><a href="../tabla/DiselTable.php"> Disel</a></li>
+                                            <li><a href="../tabla/OttoTable.php"> Ciclo otto</a></li>
+                                            </ul>
+                                        </li>
+
+                                        <li><a href="">Graficas</a>
+                                            <ul>
+                                            <li><a href="../graficas/GrafMoto.php"> motos </a></li>
+                                            <li><a href="../graficas/GrafDisel.php"> Disel</a></li>
+                                            <li><a href="../graficas/GrafOtto.php"> Ciclo otto</a></li>
+                                            
+                                            </ul>
+                                        </li>
+
+                                        <li><a href="admindenuncia.php">Denuncias</a></li>
+                                        <li><a href="../Login/registroAdmin.php">Agregar administrador</a></li>
+                                        <li><a href="../Usuarios/Usuarios.php">Usuarios</a></li>
+                                         <li><a href="../Login/password.php">Cambiar contraseña</a></li>
+                                        <li><a href="../Login/cerrar_sesion.php">Cerrar Sesión</a></li>                     
+                                </ul>
+                            </nav>
+
+                        </div>
+
+                </header>
+                <?php
+                    }
+                ?>
+                <!-- FIN ADMIN -->
+                <!-- USUARIO ADMINISTRADOR USUARIO-->
+                <?php
+                    if($_SESSION["tipo_usuario"]=="AdministradorUsuario"){        
+                ?>
+              
+                <header>  
+                    <div class="contenedor">
+                         <!-- boton menu-->
+
+                        <input type="checkbox" id="menu-bar">
+                        <label class="icon-menu" for="menu-bar"></label>
+
+                        <!-- titulo principal-->
+                        <div id="marca">
+                            <h1><a href="../IndexAdminUsu.php"><span class="resaltado" > CDA </span>Centro Diagnosito Automotriz</a></h1>
+                            <label1 >  </label1>
+                        </div>
+
+
+
+
+                        <!--menu-->
+                        <nav class="menu">
+                                <ul class="nav">
+
+                                  <li><a href="../adjuntarArchivos/IngresarDatos.php">Registrar automovil</a></li>
+                                    <li> 
+                                        <a>Adjuntar excel</a>
+                                        <ul>
+                                            <li><a href="../adjuntarArchivos/MotosExcel.php">Motos</a></li>
+                                            <li><a href="../adjuntarArchivos/Disel.php">Disel</a></li>
+                                            <li><a href="../adjuntarArchivos/cicloottoexcel.php">Diclo otto</a></li>
+                                            <li><a href="../adjuntarArchivos/Completo.php">General</a></li>
+                                        </ul>
+                                    </li>
+                                    <li><a>Folder</a>
+                                        <ul>
+                                        <li><a href="../tabla/tablaMoto.php"> motos </a></li>
+                                        <li><a href="../tabla/tablaDisel.php"> Disel</a></li>
+                                        <li><a href="../tabla/tablaOtto.php"> Ciclo otto</a></li>
+                                        </ul>
+                                    </li>
+
+                                    <li><a>Graficas</a>
+                                        <ul>
+                                        <li><a href="../graficas/GrafMoto.php"> motos </a></li>
+                                        <li><a href="../graficas/GrafMoto.php"> Disel</a></li>
+                                        <li><a href="../graficas/GrafOtto.php"> Ciclo otto</a></li>
+                                        
+                                        </ul>
+                                    </li>
+
+                                    <li><a href="admindenuncia.php">Denuncias</a></li>
+                                    <li><a href="../Login/password.php">Cambiar contraseña</a></li>
+                                    <li><a href="../Login/cerrar_sesion.php">Cerrar Sesión</a></li>                     
+                            </ul>
+                        </nav>
+
+                    </div>
+
+                </header>
+                <?php
+                    }
+                ?>
+
+                <section id="cabecera">
+                  <div class="contenedor">
+
+                     <table>
+                        <tr>
+                            <th>ID</th>
+                            <th>Nombres</th>
+                            <th>Apellidos</th>
+                            <th>Identificacion</th>
+                            <th>Correo</th>
+                            <th>Telefono</th>
+                            <th>Placa</th>
+                            <th>Imagen</th>
+                            <th>Estado</th>
+                            <th>Revisar</th>
+                        </tr>
+                        <?php
+
+                            $mysqli = new mysqli($host, $user, $pw, $db);
+                            $sql = "SELECT * FROM denuncias WHERE estado='SIN REVISAR'";
+                            $result1 = $mysqli->query($sql);
+                            while($row  = $result1 -> fetch_assoc()){
+                        ?>
+
+                         <tr>
+                                <td><?php echo $row['id'];?></td>
+                                <td><?php echo $row['nombres'];?></td>
+                                <td><?php echo $row['apellidos'];?></td>
+                                <td><?php echo $row['identificacion'];?></td>
+                                <td><?php echo $row['correo'];?></td>
+                                <td><?php echo $row['telefono'];?></td>
+                                <td><?php echo $row['placa'];?></td>
+
+
+                                <td>
+                                    <img id="myImg" style="width:100%;max-width:300px" alt="vehiculo" src="data:image/jpg;base64,<?php echo base64_encode($row['imagen']) ;?>"> 
+
+                                    <div id="myModal" class="modal">
+                                        <span class="close">&times;</span>
+                                        <img class="modal-content" id="img01">
+                                        <div id="caption"></div>
+
+                                    </div>
+                                    <script>
+                                        // Get the modal
+                                        var modal = document.getElementById('myModal');
+
+                                        // Get the image and insert it inside the modal - use its "alt" text as a caption
+                                        var img = document.getElementById('myImg');
+                                        var modalImg = document.getElementById("img01");
+                                        var captionText = document.getElementById("caption");
+                                        img.onclick = function(){
+                                            modal.style.display = "block";
+                                            modalImg.src = this.src;
+                                            captionText.innerHTML = this.alt;
+                                        }
+
+                                        // Get the <span> element that closes the modal
+                                        var span = document.getElementsByClassName("close")[0];
+
+                                        // When the user clicks on <span> (x), close the modal
+                                        span.onclick = function() { 
+                                            modal.style.display = "none";
+                                        }
+                                    </script>
+                                </td>-
+                                <td><?php echo $row['estado'];?></td>
+                                <td><a href="estado.php?id=<?php echo $row['id'];?>">Revisado  </a></td>
+
+                        </tr>
+                        <?php
+                            }
+                        ?>
+
+                          </table>
+
+                         </div>  
+
+
+                </section>
+
+                <section id="boletin">
+                  <div class="contenedor">
+                    
+                  </div>
+                </section>
+
+            </body>
+            </html>
