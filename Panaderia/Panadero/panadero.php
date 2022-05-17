@@ -63,6 +63,15 @@
 
                 <!--inicio notificaciones-->
                 <ul class="navbar-nav text-uppercase ml-auto ">
+                    
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="Productos.php">Pasteleria</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="Empleados.php">Panaderia</a>
+                    </li>
+                    </li>
                     <li class="nav-item dropdown no-arrow">
                         <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <span class="mr-2 d-none d-lg-inline "><?php echo $_SESSION["nombre_usuario"] ?></span>
@@ -78,7 +87,7 @@
         </div>
     </nav>
 
-    <!-- -->
+    <!-- Tabla de productos -->
     <section class="bg-light" id="portfolio">
         <div class=" container">
             <!---->
