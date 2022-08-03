@@ -1,7 +1,7 @@
-<!-- <?php
-        session_start();
-        include 'conectar.php';
-        ?> -->
+<?php
+	session_start();
+	include 'conectar.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,7 +12,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Panaderia</title>
+    <title>Pasteleria</title>
 
     <!-- menu CSS -->
     <link href="../vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -94,33 +94,48 @@
             <form class="was-validated row">
                 <!--Seccion productos -->
                 <div class="list-group col-md-7 col-sm-12 col-12 mx-1 my-custom-scrollbarList">
-                <?php 
-                $mysqli = new mysqli($host, $user, $pw, $db);
-                $sql ="SELECT  *  FROM productos WHERE (PRO_TIPO = 6 OR PRO_TIPO = 5 OR PRO_TIPO = 4 OR PRO_TIPO = 3 ) AND (PRO_CLASE = 1)";
-                $result1 = $mysqli->query($sql);
-                if (mysqli_num_rows($result1) > 0){
-                    while($row = mysqli_fetch_assoc($result1)){
-                        $id = $row['PRO_ID'];
-                        $foto = $row['PRO_FOTO'];
-                        $nombre = $row['PRO_NOMBRE'];
-                        $precio = $row['PRO_VENTA'];
-
-                                                
-                             
-
-                ?>
-                    <button type="button" class="list-group-item list-group-item-action col-ms-5" href="#productos" data-toggle="modal" onclick="sacarid('<?php echo $id; ?>')">
+                    <button type="button" class="list-group-item list-group-item-action col-ms-5" href="#productos" data-toggle="modal">
                         <li class="media">
-                            <img src="../img/<?php echo $foto;?>" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
+                            <img src="../img/imag/cafenegro.jpg" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
                             <div class="media-body">
-                                <h5 class="mt-0 my-4 mb-4"><?php echo $nombre;  ?>
+                                <h5 class="mt-0 my-4 mb-4">Cafe negro
                             </div>
                         </li>
                     </button>
-                    <?php 
-                     }
-                    }
-                ?>
+                    <button type="button" class="list-group-item list-group-item-action" href="#productos" data-toggle="modal">
+                        <li class="media">
+                            <img src="../img/imag/cafenegro.jpg" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
+                            <div class="media-body">
+                                <h5 class="mt-0 my-4 mb-4">Cafe en Leche
+                            </div>
+                        </li>
+
+                    </button>
+                    <button type="button" class="list-group-item list-group-item-action col-ms-5" href="#productos" data-toggle="modal">
+                        <li class="media">
+                            <img src="../img/imag/cafenegro.jpg" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
+                            <div class="media-body">
+                                <h5 class="mt-0 my-4 mb-4">Cafe negro
+                            </div>
+                        </li>
+                    </button>
+                    <button type="button" class="list-group-item list-group-item-action col-ms-5" href="#productos" data-toggle="modal">
+                        <li class="media">
+                            <img src="../img/imag/cafenegro.jpg" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
+                            <div class="media-body">
+                                <h5 class="mt-0 my-4 mb-4">Cafe negro
+                            </div>
+                        </li>
+                    </button>
+                    <button type="button" class="list-group-item list-group-item-action col-ms-5" href="#productos" data-toggle="modal">
+                        <li class="media">
+                            <img src="../img/imag/cafenegro.jpg" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
+                            <div class="media-body">
+                                <h5 class="mt-0 my-4 mb-4">Cafe negro
+                            </div>
+                        </li>
+                    </button>
+
                 </div>
                 <!--Seccion tablas-->
                 <div class="class col-md-4 col-12">
@@ -199,12 +214,24 @@
                                 <div class="col-md-12 mb-2 my-2 mx-5">
 
                                     <div class="input-group col-md-9">
-                                        <span class="mx-0 col-md-12">Cantidad de Bandejas:</span>
-                                        <input type="number" id="numero_bandejas" class="form-control  " placeholder="Cantidad del producto" required >
+                                        <span class="mx-0 col-md-12">Cantidad de panes:</span>
+                                        <input type="number" id="nombreusuario" class="form-control  " placeholder="Cantidad del producto" required>
                                     </div>
+
+                                    <div class="custom-control custom-radio">
+                                        <input type="radio" id="btnDeshabilitar" name="customRadio" class="custom-control-input" checked>
+                                        <label class="custom-control-label" for="btnDeshabilitar">Ingresar por
+                                            unidad</label>
+                                    </div>
+                                    <div class="custom-control custom-radio">
+                                        <input type="radio" id="btnHabilitar" name="customRadio" class="custom-control-input">
+                                        <label class="custom-control-label" for="btnHabilitar">Ingresar por
+                                            bandejas</label>
+                                    </div>
+
                                     <div class="input-group col-md-9">
-                                        <span class="mx-0 col-md-12">Cantidad de Panes por Bandeja:</span>
-                                        <input type="number" id="cantidad_pan" class="form-control  " placeholder="Cantidad del producto" required >
+                                        <span class="mx-0 col-md-12">Cantidad de bandeja:</span>
+                                        <input type="number" id="nombre" class="form-control  " placeholder="Cantidad del producto" required>
                                     </div>
                                 </div>
 
@@ -213,7 +240,7 @@
                             <div class=" row no-guters">
                                 <div class="col-md-2 col-2 "></div>
                                 <div class=" col-md-10 col-5 mb-2">
-                                    <button type="button" data-dismiss="modal" id="guardar_prd" class="mx-4 col-md-6 btn btn-secondary">Guardar</button>
+                                    <button type="button" data-dismiss="modal" id="cajero" class="mx-4 col-md-6 btn btn-secondary">Guardar</button>
                                 </div>
                             </div>
                         </form>
@@ -304,18 +331,11 @@
         $('#tabla_Facturacion').load('componentes/tablaFactura.php');
 
     });
-    $(document).ready(function(){
-        $('#guardar_prd').click(function(){
-          bandejas=$('#numero_bandejas').val();
-          panes=$('#cantidad_pan').val();
-          guardarproduccion(bandejas, panes, '<?php echo $_SESSION["nombre_usuario"]?>');
-        });
-    });
     $(document).ready(function() {
-    $('#tabla_tortas').load('componentes/tabla_tortas.php');
+        $('#tabla_tortas').load('componentes/tabla_tortas.php');
 
     });
-    $('#sacarid').click(function() {
+    $('#actualizar').click(function() {
         actualizaDatos();
     });
     $('#cajero').click(function() {
