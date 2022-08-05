@@ -41,7 +41,6 @@ function guardarproduccion(bandejas, panes, usuario){
 function solicitudcancelar(iden){
 	
     cadena= "id=" + iden;
-	alert(iden);
 
 	$.ajax({
 		type:"POST",

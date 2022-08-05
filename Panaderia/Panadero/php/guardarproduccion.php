@@ -30,8 +30,6 @@
       $result3=mysqli_query($conexion,$sql3);
 
 //-----------------------------------------------------------------------------------------------	
-
-
 $sql5="UPDATE productos SET PRO_CANTIDAD ='$cantidad' WHERE PRO_ID = '$id_producto'";
 echo $result5=mysqli_query($conexion,$sql5);
 //-----------------------------------------------------------------------------------------------	 

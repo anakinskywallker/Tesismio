@@ -1,3 +1,4 @@
+@@ -1,348 +0,0 @@
 <?php
 	session_start();
 	include 'conectar.php';

@@ -6,5 +6,3 @@
     $result=mysqli_query($conexion,$sql); 
     echo $result=mysqli_query($conexion,$sql);
 ?>
-
-
