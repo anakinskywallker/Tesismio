@@ -253,7 +253,7 @@
     <!---------------------------------------------------FIN Modal agregar produccion--------------------------------------------------------->
 
     <!----------Modal edicion de productos------------------->
-    <div class="modal fade" id="Edicion" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal fade" id="Edicion2" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered " role="document">
             <div class="modal-content ">
 

@@ -52,3 +52,40 @@ $conexion = conexion();
 
     </tbody>
 </table>
+<div class="modal fade" id="Edicion" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered " role="document">
+            <div class="modal-content ">
+
+                <div class="modal-header">
+                    <h3 class="mx-5 section-heading text-uppercase ">Tostadas</h3>
+                    <!--Obtener dato-->
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+
+                <div class="modal-body ">
+                    <div class="">
+                        <form class="was-validated">
+                            <!--Botones Inicio -->
+                            <div class=" row no-guters ">
+                                <div class="col-md-12 col-12 mb-2 my-2 mx-5">
+                                   
+                                    <div class="input-group col-md-9 col-10">
+                                        <span class="col-md-12">Observación:</span>
+                                        <textarea class="form-control" id ="observacion"  aria-label="With textarea" placeholder="nota: la informacion a editar sera aprobada por el administrador" required></textarea>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class=" row no-guters">
+                                <div class="col-md-2 col-2 "></div>
+                                <div class=" col-md-10 col-5 mb-2">
+                                    <button type="button" data-dismiss="modal" id="modificar_produccion" class="mx-4 col-md-6 btn btn-secondary">Guardar</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>

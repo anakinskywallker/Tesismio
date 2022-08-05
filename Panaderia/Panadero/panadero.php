@@ -1,6 +1,7 @@
 <?php
-        session_start();
-        include 'conectar.php';
+session_start();
+require_once "../Administrador/php/conexion.php";
+$conexion = conexion();
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -65,11 +66,11 @@
                 <ul class="navbar-nav text-uppercase ml-auto ">
                     
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="Productos.php">Pasteleria</a>
+                        <a class="nav-link js-scroll-trigger" href="pastelero.php">Pasteleria</a>
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="Empleados.php">Panaderia</a>
+                        <a class="nav-link js-scroll-trigger" href="panadero.php">Panaderia</a>
                     </li>
                     </li>
                     <li class="nav-item dropdown no-arrow">
@@ -96,10 +97,8 @@
 
                 <div class="list-group col-md-6 col-sm-12 col-12 mx-1 my-custom-scrollbarList">
                 <?php 
-                $mysqli = new mysqli($host, $user, $pw, $db);
                 $sql ="SELECT  *  FROM productos WHERE (PRO_TIPO = 6 OR PRO_TIPO = 5 OR PRO_TIPO = 4 OR PRO_TIPO = 3 ) AND (PRO_CLASE = 1)";
                 $result1 = mysqli_query($conexion, $sql);
-                $result1 = $mysqli->query($sql);
                 if (mysqli_num_rows($result1) > 0){
                     while($row = mysqli_fetch_assoc($result1)){
                         $id = $row['PRO_ID'];
@@ -210,8 +209,7 @@
                                 <div class=" row no-guters">
                                 <div class="col-md-2 col-2 "></div>
                                 <div class=" col-md-10 col-5 mb-2">
-                                    <button type="button" data-dismiss="modal" id="cajero" class="mx-4 col-md-6 btn btn-secondary">Guardar</button>
-                                    <button type="button" data-dismiss="modal" id="modificar_produccion" class="mx-4 col-md-6 btn btn-secondary">Guardar</button>
+                                <button type="button" data-dismiss="modal" id="guardar_prd" class="mx-4 col-md-10 btn btn-secondary">Guardar</button>
                                 </div>
                             </div>
                         </form>
@@ -223,43 +221,7 @@
     <!---------------------------------------------------FIN Modal agregar produccion--------------------------------------------------------->
 
     <!----------Modal edicion de productos------------------->
-    <div class="modal fade" id="Edicion" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered " role="document">
-            <div class="modal-content ">
-
-                <div class="modal-header">
-                    <h3 class="mx-5 section-heading text-uppercase ">Tostadas</h3>
-                    <!--Obtener dato-->
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-
-                <div class="modal-body ">
-                    <div class="">
-                        <form class="was-validated">
-                            <!--Botones Inicio -->
-                            <div class=" row no-guters ">
-                                <div class="col-md-12 col-12 mb-2 my-2 mx-5">
-                                   
-                                    <div class="input-group col-md-9 col-10">
-                                        <span class="col-md-12">Observación:</span>
-                                        <textarea class="form-control" id ="observacion"  aria-label="With textarea" placeholder="nota: la informacion a editar sera aprobada por el administrador" required></textarea>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class=" row no-guters">
-                                <div class="col-md-2 col-2 "></div>
-                                <div class=" col-md-10 col-5 mb-2">
-                                    <button type="button" data-dismiss="modal" id="modificar_produccion" class="mx-4 col-md-6 btn btn-secondary">Guardar</button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    
     <!--fin modal-->
 
 
@@ -293,7 +255,6 @@
 <script type="text/javascript">
     $(document).ready(function() {
         $('#tabla_producion').load('componentes/tabla_producion.php');
-
     });
 
     $(document).ready(function(){
