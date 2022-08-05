@@ -93,7 +93,7 @@
             <!---->
             <form class="was-validated row">
                 <!--Seccion productos -->
-                <div class="list-group col-md-7 col-sm-12 col-12 mx-1 my-custom-scrollbarList">
+                <div class="list-group col-md-6 col-sm-12 col-12 mx-1 my-custom-scrollbarList">
                 <?php 
                 $mysqli = new mysqli($host, $user, $pw, $db);
                 $sql ="SELECT  *  FROM productos WHERE (PRO_TIPO = 6 OR PRO_TIPO = 5 OR PRO_TIPO = 4 OR PRO_TIPO = 3 ) AND (PRO_CLASE = 1)";
@@ -104,11 +104,7 @@
                         $foto = $row['PRO_FOTO'];
                         $nombre = $row['PRO_NOMBRE'];
                         $precio = $row['PRO_VENTA'];
-
-                                                
-                             
-
-                ?>
+                 ?>
                     <button type="button" class="list-group-item list-group-item-action col-ms-5" href="#productos" data-toggle="modal" onclick="sacarid('<?php echo $id; ?>')">
                         <li class="media">
                             <img src="../img/<?php echo $foto;?>" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
@@ -117,22 +113,22 @@
                             </div>
                         </li>
                     </button>
-                    <?php 
+                <?php 
                      }
                     }
                 ?>
                 </div>
                 <!--Seccion tablas-->
-                <div class="class col-md-4 col-12">
+                <div class="class col-md-5 col-12">
                     <!-------tabla facturas------------->
                     <div class="table-wrapper-scroll-y my-custom-scrollbarProductos  col-md-12 col-sm-12 col-12">
-                        <div id="tabla_Facturacion"></div>
+                        <div id="tabla_producion"></div>
                     </div>
                     <!-------tabla tortas------------->
-                    <div class="classs col-md-7"></div>
+                    <!--   <div class="classs col-md-7"></div>
                     <div class="table-wrapper-scroll-y my-custom-scrollbarProductos col-md-12 col-12">
                         <div id="tabla_tortas"></div>
-                    </div>
+                    </div>-->
                 </div>
 
 
@@ -243,24 +239,17 @@
                             <!--Botones Inicio -->
                             <div class=" row no-guters ">
                                 <div class="col-md-12 col-12 mb-2 my-2 mx-5">
-                                    <div class="input-group col-md-9 col-10">
-                                        <span class="col-md-12">Cantidad Actual de panes:</span>
-                                        <input type="number" id="nombreusuario" class="form-control  " placeholder="Cantidad del producto" required>
-                                    </div>
-                                    <div class="input-group col-md-9 col-10">
-                                        <span class="col-md-12">Nueva Cantidad de panes:</span>
-                                        <input type="number" id="nombreusuario" class="form-control  " placeholder="Cantidad del producto" required>
-                                    </div>
+                                   
                                     <div class="input-group col-md-9 col-10">
                                         <span class="col-md-12">Observación:</span>
-                                        <textarea class="form-control" aria-label="With textarea" placeholder="nota: la informacion a editar sera aprobada por el administrador" required></textarea>
+                                        <textarea class="form-control" id ="observacion"  aria-label="With textarea" placeholder="nota: la informacion a editar sera aprobada por el administrador" required></textarea>
                                     </div>
                                 </div>
                             </div>
                             <div class=" row no-guters">
                                 <div class="col-md-2 col-2 "></div>
                                 <div class=" col-md-10 col-5 mb-2">
-                                    <button type="button" data-dismiss="modal" id="cajero" class="mx-4 col-md-6 btn btn-secondary">Guardar</button>
+                                    <button type="button" data-dismiss="modal" id="modificar_produccion" class="mx-4 col-md-6 btn btn-secondary">Guardar</button>
                                 </div>
                             </div>
                         </form>
@@ -301,7 +290,7 @@
 </html>
 <script type="text/javascript">
     $(document).ready(function() {
-        $('#tabla_Facturacion').load('componentes/tablaFactura.php');
+        $('#tabla_producion').load('componentes/tabla_producion.php');
 
     });
     $(document).ready(function(){
@@ -309,6 +298,11 @@
           bandejas=$('#numero_bandejas').val();
           panes=$('#cantidad_pan').val();
           guardarproduccion(bandejas, panes, '<?php echo $_SESSION["nombre_usuario"]?>');
+        });
+    $(document).ready(function(){
+        $('#modificar_produccion').click(function(){
+          observacion=$('#observacion').val();
+          guardarsolicitud(observacion);
         });
     });
     $(document).ready(function() {

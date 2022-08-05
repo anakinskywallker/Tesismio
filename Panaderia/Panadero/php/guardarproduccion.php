@@ -17,17 +17,20 @@
     $result2=mysqli_query($conexion,$sql2);
     $var=mysqli_fetch_row($result2);
     $id_producto = $var[4];
+      
+      $sql4="SELECT PRO_CANTIDAD, PRO_TIPO FROM productos WHERE PRO_ID = '$id_producto'";
+      $result4=mysqli_query($conexion,$sql4);
+      $tem=mysqli_fetch_row($result4);
+      $cantidad = $tem[0] + $t;
+      $tipo = $tem[1];
     
  //-----------------------------------------------------------------------------------------------
-      $sql3="INSERT INTO produccion (PERSONAL_ID, PRO_ID, FECHA, TIPO, CANTIDAD) 
-      VALUES ('$id_personal','$id_producto','$fecha_actual','0','$t')";
+      $sql3="INSERT INTO produccion (PERSONAL_ID, PRO_ID, FECHA, TIPO, CANTIDAD, Estado) 
+      VALUES ('$id_personal','$id_producto','$fecha_actual','$tipo','$t','1')";
       $result3=mysqli_query($conexion,$sql3);
 
 //-----------------------------------------------------------------------------------------------	
-$sql4="SELECT PRO_CANTIDAD FROM productos WHERE PRO_ID = '$id_producto'";
-$result4=mysqli_query($conexion,$sql4);
-$tem=mysqli_fetch_row($result4);
-$cantidad = $tem[0] + $t;
+
 
 $sql5="UPDATE productos SET PRO_CANTIDAD ='$cantidad' WHERE PRO_ID = '$id_producto'";
 echo $result5=mysqli_query($conexion,$sql5);
