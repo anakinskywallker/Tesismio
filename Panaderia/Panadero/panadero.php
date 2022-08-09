@@ -70,7 +70,7 @@ $conexion = conexion();
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="panadero.php">Panaderia</a>
+                        <a class="nav-link js-scroll-trigger" href="panaderia.php">Panaderia</a>
                     </li>
                     </li>
                     <li class="nav-item dropdown no-arrow">
@@ -255,6 +255,7 @@ $conexion = conexion();
 <script type="text/javascript">
     $(document).ready(function() {
         $('#tabla_producion').load('componentes/tabla_producion.php');
+
     });
 
     $(document).ready(function(){
@@ -264,12 +265,7 @@ $conexion = conexion();
           guardarproduccion(bandejas, panes, '<?php echo $_SESSION["nombre_usuario"]?>');
         });
     });
-    $(document).ready(function(){
-        $('#modificar_produccion').click(function(){
-          observacion=$('#observacion').val();
-          guardarsolicitud(observacion);
-        });
-    });
+   
     $(document).ready(function() {
         $('#tabla_tortas').load('componentes/tabla_tortas.php');
 
@@ -285,3 +281,13 @@ $conexion = conexion();
 
     });
 </script>
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $('#modificar_produccion').click(function(){
+                 observacion=$('#observacion').val();
+                 alert(observacion);
+                 guardarsolicitud(observacion);
+            });
+        });
+    </script>

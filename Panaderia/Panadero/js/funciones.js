@@ -69,6 +69,7 @@ function solicitudcancelar(iden){
 }
 function guardarsolicitud(observacion){
 	cadena= "observacion=" + observacion ;
+	alert(cadena);
 
 	$.ajax({
 		type:"POST",
