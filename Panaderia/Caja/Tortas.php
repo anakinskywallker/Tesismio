@@ -12,7 +12,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Caja</title>
+  <title>Tortas</title>
 
   <!-- menu CSS -->
   <link href="../css/cssVendor/vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -60,6 +60,9 @@
             <a class="nav-link js-scroll-trigger" href="caja.php">Caja</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="Tortas.php">Tortas</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="facturas.php">Facturacion</a>
           </li>
           <li class="nav-item">
@@ -97,7 +100,7 @@
 <!---------------------------------------------------------  Tabla guardar facturacion  ------------------------------------------------------>
                <article class="col-xs-12 col-sm-12 col-md-6  my-5 my-md-0">
                        <div class="container">
-  		                <div id="tabla"></div>
+  		                <div id="tabl"></div>
 	                   </div>
                </article>
 <!----------------------------------------------------  Tabla productos 1 ------------------------------------------------------------------------->
@@ -112,7 +115,7 @@
                                   <?php
 
                                       $mysqli = new mysqli($host, $user, $pw, $db);
-                                      $sql ="SELECT  *  FROM productos WHERE (PRO_TIPO = 6 OR PRO_TIPO = 5 OR PRO_TIPO = 4 OR PRO_TIPO = 3 ) AND (PRO_CLASE = 1)";
+                                      $sql ="SELECT  *  FROM productos WHERE (PRO_TIPO = 7 ) AND (PRO_CLASE = 1)";
                                       $result1 = $mysqli->query($sql);
                                       $row_cnt = $result1->num_rows;
                                     if (mysqli_num_rows($result1) > 0){
@@ -245,282 +248,6 @@
                 </div>
 <!--------------------------------------------------- fin tabla productos 1 -----------------------------------------------------------------------> 
 
-<!-------------------------------------------------------------  tabla productos 2 ----------------------------------------------------------------->
-                 <div class="col-xs-12 col-sm-12 col-md-6">
-                    
-                    <div class="contaier">
-                            <div class="table-wrapper-scroll-y my-custom-scrollbar2">
-                                    <a style="color: #6f6f6f; margin: 230px;"  ></a>
-                              <table class="table1" id="portfolio">
-                                
-                                <tbody>
-                                    <?php
-
-                                      //$mysqli = new mysqli($host, $user, $pw, $db);
-                                      $sql2 ="SELECT * FROM productos WHERE (PRO_TIPO = 1 OR PRO_TIPO = 2 ) AND (PRO_CLASE = 1)";
-                                      $result2 = $mysqli->query($sql2);
-                                      $row_cnt2 = $result2->num_rows;
-                                    if (mysqli_num_rows($result2) > 0){
-                                        while($row2 = mysqli_fetch_assoc($result2)){
-                                            $id2[] =     $row2['PRO_ID'];
-                                            $foto2[] =   $row2['PRO_FOTO'];
-                                            $nombre2[] = $row2['PRO_NOMBRE'];
-                                            $precio2[] = $row2['PRO_VENTA'];
-                                                }
-                                                }
-                                     for ($i = 0; $i <= $row_cnt2 ; $i++) {
-                                        if ( $i < $row_cnt2 - 4) {
-                                         $ddatos=$id2[$i]."||".
-                                                $foto2[$i]."||".
-                                                $nombre2[$i]."||".
-                                                $precio2[$i];
-                                        $ddatos1=$id2[$i+1]."||". 
-                                                $foto2[$i+1]."||".
-                                                $nombre2[$i+1]."||".
-                                                $precio2[$i+1];
-                                                                            
-                                        $ddatos2=$id2[$i+2]."||".
-                                                $foto2[$i+2]."||".
-                                                $nombre2[$i+2]."||".
-                                                $precio2[$i+2]; 
-                                        $ddatos3=$id2[$i+3]."||".
-                                                $foto2[$i+3]."||".
-                                                $nombre2[$i+3]."||".
-                                                $precio2[$i+3];
-                                        $ddatos4=$id2[$i+4]."||".
-                                                $foto2[$i+4]."||".
-                                                $nombre2[$i+4]."||".
-                                                $precio2[$i+4];
-                                        }
-                                    ?>
-                                    <tr>
-                                    <td>
-                                      <div class="row">
-                                        <div class="col-md-12 portfolio-item">
-                                         <a class="portfolio-link" data-toggle="modal" href="#myModal" onclick="sacarid('<?php echo $ddatos; ?>')">
-                                            <div class="portfolio-hover">
-                                              <div class="portfolio-hover-content">
-                                                <i class="fas fa-plus fa-3x"></i>
-                                              </div>
-                                            </div>
-                                            <img class="img-fluid" src="<?php echo $foto2[$i];?>" alt="">
-                                          </a>
-                                          
-                                        </div>
-                                        </div>
-                                  </td>
-                                    <td><div class="row">
-                                        <div class="col-md-12 portfolio-item">
-                                        <a class="portfolio-link" data-toggle="modal" href="#myModal" onclick="sacarid('<?php echo $ddatos1; ?>')">
-                                            <div class="portfolio-hover">
-                                              <div class="portfolio-hover-content">
-                                                <i class="fas fa-plus fa-3x"></i>
-                                              </div>
-                                            </div>
-                                            <img class="img-fluid" src="<?php echo $foto2[$i+1];?>" alt="">
-                                          </a>
-                                          
-                                        </div>
-                                        </div></td>
-                                    <td><div class="row">
-                                        <div class="col-md-12 portfolio-item">
-                                        
-                                        <a class="portfolio-link" data-toggle="modal" href="#myModal" onclick="sacarid('<?php echo $ddatos2; ?>')">
-                                            <div class="portfolio-hover">
-                                              <div class="portfolio-hover-content">
-                                                <i class="fas fa-plus fa-3x"></i>
-                                              </div>
-                                            </div>
-                                            <img class="img-fluid" src="<?php echo $foto2[$i+2];?>" alt="">
-                                        </a>
-                                          
-                                        </div>
-                                        </div></td>
-                                      
-                                    <td>
-                                        <div class="row">
-                                        <div class="col-md-12 portfolio-item">
-                                        <a class="portfolio-link" data-toggle="modal" href="#myModal" onclick="sacarid('<?php echo $ddatos3; ?>')">
-                                            <div class="portfolio-hover">
-                                              <div class="portfolio-hover-content">
-                                                <i class="fas fa-plus fa-3x"></i>
-                                              </div>
-                                            </div>
-                                            <img class="img-fluid" src="<?php echo $foto2[$i+3];?>" alt="">
-                                          </a>
-                                          
-                                        </div>
-                                        </div></td>
-                                      <td>
-                                        <div class="row">
-                                        <div class="col-md-12 portfolio-item">
-                                        <a class="portfolio-link" data-toggle="modal" href="#myModal" onclick="sacarid('<?php echo $ddatos4; ?>')">
-                                            <div class="portfolio-hover">
-                                              <div class="portfolio-hover-content">
-                                                <i class="fas fa-plus fa-3x"></i>
-                                              </div>
-                                            </div>
-                                            <img class="img-fluid" src="<?php echo $foto2[$i+4];?>" alt="">
-                                        </a>
-                                          
-                                        </div>
-                                        </div></td>
-                                      
-                                  </tr>
-                                    <?php
-                                           $i = $i + 4;
-                                     }
-                                    echo '<tr></div>
-                                        </div></tr>';
-                                  ?>
-                                </tbody>
-                              </table>
-
-                            </div>
-
-                        </div>
-                   
-
-                </div>
-<!--------------------------------------------------- fin tabla productos 2 ----------------------------------------------------------------------->    
-<!-----------------------------------------------------  Tabla productos 3 ------------------------------------------------------------------------->
-                 <div class="col-xs-12 col-sm-12 col-md-6">
-                    
-                    <div class="contaier">
-                            <div class="table-wrapper-scroll-y my-custom-scrollbar2">
-                                     <a style="color: #6f6f6f; margin: 230px;"  ></a>
-                              <table class="table1 mb-0 " id="portfolio">
-                                
-                                <tbody>
-                                    <?php
-
-                                      //$mysqli = new mysqli($host, $user, $pw, $db);
-                                      $sql3 ="SELECT * FROM productos WHERE (PRO_TIPO = 1 OR PRO_TIPO = 2 OR PRO_TIPO = 3 OR PRO_TIPO = 4 OR PRO_TIPO = 5 OR PRO_TIPO = 6 OR PRO_TIPO = 7 OR PRO_TIPO = 8) AND (PRO_CLASE = 2)";
-                                      $result3 = $mysqli->query($sql3);
-                                      $row_cnt3 = $result3->num_rows;
-                                    if (mysqli_num_rows($result3) > 0){
-                                        while($row3 = mysqli_fetch_assoc($result3)){
-                                            $id3[] =     $row3['PRO_ID'];
-                                            $foto3[] =   $row3['PRO_FOTO'];
-                                            $nombre3[] = $row3['PRO_NOMBRE'];
-                                            $precio3[] = $row3['PRO_VENTA'];
-                                            
-                                                }
-                                                }
-                                            
-                                       for ($i = 0; $i <= $row_cnt3 ; $i++) {
-                                           if ( $i < $row_cnt3 - 4) {
-                                        $dato=$id3[$i]."||".
-                                                $foto3[$i]."||".
-                                                $nombre3[$i]."||".
-                                                $precio3[$i];
-                                        $dato1=$id3[$i+1]."||". 
-                                                $foto3[$i+1]."||".
-                                                $nombre3[$i+1]."||".
-                                                $precio3[$i+1];
-                                                                            
-                                        $dato2=$id3[$i+2]."||".
-                                                $foto3[$i+2]."||".
-                                                $nombre3[$i+2]."||".
-                                                $precio3[$i+2]; 
-                                        $dato3=$id3[$i+3]."||".
-                                                $foto3[$i+3]."||".
-                                                $nombre3[$i+3]."||".
-                                                $precio3[$i+3];
-                                        $dato4=$id3[$i+4]."||".
-                                                $foto3[$i+4]."||".
-                                                $nombre3[$i+4]."||".
-                                                $precio3[$i+4];
-                                        }
-                                           
-                                    ?>
-                                    <tr>
-                                    <td>
-                                        <div class="row">
-                                        <div class="col-md-12 portfolio-item">
-                                <a class="portfolio-link" data-toggle="modal" href="#myModal" onclick="sacarid('<?php echo $dato; ?>')">
-                                            <div class="portfolio-hover">
-                                              <div class="portfolio-hover-content">
-                                                <i class="fas fa-plus fa-3x"></i>
-                                              </div>
-                                            </div>
-                                            <img class="img-fluid" src="<?php echo $foto3[$i];?>" alt="">
-                                </a>
-                                         
-                                        </div>
-                                        </div>
-                                  </td>
-                                    <td><div class="row">
-                                        <div class="col-md-12 portfolio-item">
-                                <a class="portfolio-link" data-toggle="modal" href="#myModal" onclick="sacarid('<?php echo $dato1; ?>')">
-                                            <div class="portfolio-hover">
-                                              <div class="portfolio-hover-content">
-                                                <i class="fas fa-plus fa-3x"></i>
-                                              </div>
-                                            </div>
-                                            <img class="img-fluid" src="<?php echo $foto3[$i+1];?>" alt="">
-                                </a>
-                                        
-                                        </div>
-                                        </div></td>
-                                    <td><div class="row">
-                                        <div class="col-md-12 portfolio-item">
-                                <a class="portfolio-link" data-toggle="modal" href="#myModal" onclick="sacarid('<?php echo $dato2 ?>')">                <div class="portfolio-hover">
-                                              <div class="portfolio-hover-content">
-                                                <i class="fas fa-plus fa-3x"></i>
-                                              </div>
-                                            </div>
-                                            <img class="img-fluid" src="<?php echo $foto3[$i+2];?>" alt="">
-                                          </a>
-                                          
-                                        </div>
-                                        </div></td>
-                                      
-                                    <td>
-                                        <div class="row">
-                                        <div class="col-md-12 portfolio-item">
-                                <a class="portfolio-link" data-toggle="modal" href="#myModal" onclick="sacarid('<?php echo $dato3; ?>')">
-                                            <div class="portfolio-hover">
-                                              <div class="portfolio-hover-content">
-                                                <i class="fas fa-plus fa-3x"></i>
-                                              </div>
-                                            </div>
-                                            <img class="img-fluid" src="<?php echo $foto3[$i+3];?>" alt="">
-                                </a>
-                                         
-                                        </div>
-                                        </div></td>
-                                      <td>
-                                        <div class="row">
-                                        <div class="col-md-12 portfolio-item">
-                                <a class="portfolio-link" data-toggle="modal" href="#myModal" onclick="sacarid('<?php echo $dato4; ?>')">
-                                            <div class="portfolio-hover">
-                                              <div class="portfolio-hover-content">
-                                                <i class="fas fa-plus fa-3x"></i>
-                                              </div>
-                                            </div>
-                                            <img class="img-fluid" src="<?php echo $foto3[$i+4];?>" alt="">
-                                          </a>
-                                        
-                                        </div>
-                                        </div></td>
-                                      
-                                  </tr>
-                                    <?php
-                                           $i = $i + 4;
-                                            }
-                                        echo '<tr></div>
-                                        </div></tr>';
-                                    ?>
-                                                
-                                </tbody>
-                              </table>
-
-                            </div>
-
-                        </div>
-                </div>
-<!--------------------------------------------------- fin tabla productos 3 ----------------------------------------------------------------------->
       
     </section>
   </div>
@@ -557,12 +284,11 @@
                              
                          </div>
                         </div>
+                        
                         <div class="col-md-12">
                         </div>
                      </div>
                     </div>
-
-
                     <div class="row">
                         <div class="col-md-1"></div>
                         <div class="col-xs-1 col-sm-6 col-md-11">
@@ -627,8 +353,8 @@
 
 <script type="text/javascript">
 	$(document).ready(function(){
-		$('#tabla').load('componentes/tabla1.php');
-        $('#tabla1').load('php/sumarainventario.php');
+		$('#tabl').load('componentes/tabla2.php');
+        $('#tabla2').load('php/sumarainventario.php');
         $("#miTexto").focus();
  	});
 </script>

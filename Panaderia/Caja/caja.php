@@ -60,11 +60,15 @@
             <a class="nav-link js-scroll-trigger" href="caja.php">Caja</a>
           </li>
           <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="Tortas.php">Tortas</a>
+          </li>
+          <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="facturas.php">Facturacion</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="Insumos.php">Insumos</a>
           </li>
+          
 
           <li class="nav-item dropdown no-arrow">
             <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown"

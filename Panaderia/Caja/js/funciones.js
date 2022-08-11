@@ -39,6 +39,8 @@ function agregarafactura(cantidad){
                 $('#tabla').load('componentes/tabla1.php');
                 $('#tablain').load('componentes/tabla_in.php');
                 $('#tabla1').load('php/sumarainventario.php');
+				$('#tabl').load('componentes/tabla2.php');
+				
   
 			}else{
 				alertify.error("Fallo el servidor :(");
@@ -48,6 +50,7 @@ function agregarafactura(cantidad){
   
     
 }
+
 function agregarafactura2(cantidad,preciou){
 
 	cadena="cantidad=" + cantidad +
@@ -83,6 +86,7 @@ function eliminarPtabla(id){
 				if(r==1){
 					alertify.success("Eliminado con exito!");
                     $('#tabla').load('componentes/tabla1.php');
+					$('#tabl').load('componentes/tabla2.php');
                     $('#tablain').load('componentes/tabla_in.php');
 
 				}else{
@@ -102,6 +106,7 @@ function limpiar(){
 				if(r==1){
 					//alertify.success("Cleansed!");
                     $('#tabla').load('componentes/tabla1.php');
+					$('#tabl').load('componentes/tabla2.php');
                     $('#tablain').load('componentes/tabla_in.php');
 				}else{
 					alertify.error("Fallo el servidor :(");

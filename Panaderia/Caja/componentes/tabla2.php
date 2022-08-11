@@ -79,14 +79,11 @@
                                               <div class="row">
                                                                                               
                                                 
-                                                <div class="col-lg-3">
+                                                <div class="col-lg-5">
                                                     <button class="btn btn-warning my-2 my-sm-0 col-lg-12" onclick="limpiar()" type="submit">Limpiar</button>
                                                   </div>
                                                   
-                                                  <div class=" col-lg-2">
-                                                    <button class="btn btn-success my-2 my-sm-0 col-lg-12 " type="submit" data-toggle="modal" 
-                                                    href="#gastos">Gasto</button>
-                                                    </div>
+
                                                 
                                                   <div class=" col-lg-7">
                                                     <button class="btn btn-success my-2 my-sm-0 col-lg-12 " type="submit" data-toggle="modal" href="#generar">Generar factura</button>
@@ -101,7 +98,7 @@
                         </div>
                         
    <!------------------------------------------ otro modal de generar factura   ------------------------------------------>
-  <div class="modal fade" id="generar" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+  <div class="modal fade" id="" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
     aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered " role="document">
       <div class="modal-content ">
@@ -148,7 +145,7 @@
   <!------------------------------------------ fin otro modal de generar factura------------------------------------------->  
   
   <!-------------------------------------------Modal agregar tortas---------------------------------------------->
-    <div class="modal fade" id="tortas" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+    <div class="modal fade" id="generar" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
         aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered " role="document">
             <div class="modal-content ">
@@ -200,18 +197,9 @@
                                 <div class="col-md-2"></div>
                                 <div class=" col-md-10 mb-2">
                                
-                                    <button id="btnGroupDrop1" type="button"
-                                        class="mx-4 col-md-6 btn btn-secondary dropdown-toggle " data-toggle="dropdown"
-                                        aria-haspopup="true" aria-expanded="false" requerid>
-                                        Modo de Pago 
-                                    </button>
-                                    
-                                    <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
-                                        <button type="button"  data-dismiss="modal" id = "Cancela" class="btn btn-secndary">Cancela        </button>
-                                        <div></div>
-                                        <button type="button"  data-dismiss="modal" id = "Abona" class="btn btn-secndary">Abona     </button>
-                                        
-                                    </div>
+                                <button class="btn btn-success my-2 my-sm-0 col-lg-8 " id="generarFtortas"data-dismiss="modal"  type="submit"
+                                    data-toggle="modal">Confirmar
+                                </button>
                                     
                                 </div>
                                 <div class="col-md-3"></div>
@@ -293,7 +281,7 @@
 
  <script type="text/javascript">
     $(document).ready(function(){
-        $('#generarF').click(function(){
+        $('#generarFtortas').click(function(){
           pago=$('#pago').val();
           generarFactura(pago,'<?php echo $suma; ?>','<?php echo $_SESSION["nombre_usuario"]?>');
           //restarainventario(pago);
