@@ -97,60 +97,14 @@
                                 </table>
                         </div>
                         
-   <!------------------------------------------ otro modal de generar factura   ------------------------------------------>
-  <div class="modal fade" id="" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-    aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered " role="document">
-      <div class="modal-content ">
-        <div class="modal-header">
-          <h2 class="text-success">TOTAL: <?php echo $suma; ?></h2>
-          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-            <span aria-hidden="true">&times;</span>
-          </button>
-        </div>
-        <div class="modal-body ">
-
-          <div class="">
-            <div class="row">
-              <div class="mx-5 col-md-6">
-                <input type="text" class="form-control" id="pago" aria-describedby="basic-addon3">
-
-              </div>
-
-
-              <div class="mx-5 col-md-8 row">
-
-
-               
-                <div class="col-md-12">
-                  <p class="text-muted">Ingresa la cantidad con la que cancelan </p>
-
-                </div>
-                <div class="col-md-12">
-
-                  <button class="btn btn-success my-2 my-sm-0 col-lg-12 " id="generarF"data-dismiss="modal"  type="submit"
-                    data-toggle="modal">Confirmar
-                  </button>
-                </div>
-              </div>
-
-            </div>
-          </div>
-          <br>
-          <br><br><br><br><br>
-        </div>
-      </div>
-    </div>
-  </div>
-  <!------------------------------------------ fin otro modal de generar factura------------------------------------------->  
-  
+   
   <!-------------------------------------------Modal agregar tortas---------------------------------------------->
     <div class="modal fade" id="generar" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
         aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered " role="document">
             <div class="modal-content ">
                 <div class="modal-header">
-                    <h3 class="mx-5 section-heading text-uppercase text-success">Agregar Torta</h3>
+                <h3 class="text-success">TOTAL: <?php echo $suma; ?></h3>
                     <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                     </button>
@@ -165,34 +119,36 @@
                             <div class="no-guters ">
                                 <div class="col-md-12 mb-2 my-2 mx-5">
                                     <div class="input-group col-md-9">
-                                        <input type="text" class="form-control  " placeholder="Fecha de Entrega" required>
+                                        <input type="text" class="form-control  " id="fecha" placeholder="Fecha de Entrega" required>
                                     </div>
                                 </div>
                                 <div class="col-md-12 mx-5 mb-2">
                                     <div class="input-group col-md-9">
-                                        <input type="text" class="form-control  " placeholder="Informacion Cliente" required>
-                                    </div>
-                                </div>
-                                <div class="col-md-12 mb-2 mx-5">
-                                    <div class="input-group col-md-9">
-                                        <input type="number" class="form-control  " placeholder="Cantidad U" required>
+                                        <input type="text" class="form-control  " id="Nombre" placeholder="Nombre" required>
                                     </div>
                                 </div>
                                 <div class="col-md-12 mx-5 mb-2">
                                     <div class="input-group col-md-9">
-                                        <input type="text" class="form-control  " placeholder="Descripcion" required>
+                                        <input type="text" class="form-control  " id="Informacion" placeholder="Informacion Cliente" required>
                                     </div>
                                 </div>
-                                <div class="col-md-12 mb-2 mx-5">
+                                <div class="col-md-12 mx-5 mb-2">
                                     <div class="input-group col-md-9">
-                                        <input type="number" class="form-control  " placeholder="Valor" required>
+                                        <input type="text" class="form-control  " id="Telefono" placeholder="Telefono" required>
                                     </div>
                                 </div>
-                                <div class="col-md-12 mb-2 mx-5">
+                                
+                                <div class="col-md-12 mx-5 mb-2">
                                     <div class="input-group col-md-9">
-                                        <input type="number" class="form-control  " placeholder="Abono" required>
+                                        <input type="text" class="form-control  " id="Descripcion" placeholder="Descripcion" required>
                                     </div>
                                 </div>
+                                <div class="col-md-12 mx-5 mb-2">
+                                    <div class="input-group col-md-9">
+                                        <input type="text" class="form-control  " id="Pago" placeholder="Pago" required>
+                                    </div>
+                                </div>
+                                
                                 <div class=" row no-guters">
                                 <div class="col-md-2"></div>
                                 <div class=" col-md-10 mb-2">
@@ -215,76 +171,18 @@
         </div>
     </div>
  <!-----------------------------------------FIn Modal agregar tortas---------------------------------------------->
- <!-------------------------------------------Modal agregar gasto---------------------------------------------->
-    <div class="modal fade" id="gastos" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
-        aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered " role="document">
-            <div class="modal-content ">
-                <div class="modal-header">
-                    <h3 class="mx-5 section-heading text-uppercase text-success">Agregar Gasto</h3>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">&times;</span>
-                    </button>
-                </div>
-                <div class="modal-body ">
-                    <div class=" container-Agregar">
-                        <!---->
-                        <div class="col-12 col-md-12 mx-4 text-center">
-                        </div>
-                        <form class="was-validated">
-                            <!--Botones Inicio -->
-                            <div class="no-guters ">
-                                
-                                <div class="col-md-12 mb-2 mx-5">
-                                    <div class="input-group col-md-9">
-                                        <input type="number" class="form-control  " placeholder="Valor del Gato" required>
-                                    </div>
-                                </div>
-                                <div class="col-md-12 mx-5 mb-2">
-                                    <div class="input-group col-md-9">
-                                        <input type="text" class="form-control  " placeholder="Descripcion" required>
-                                    </div>
-                                </div>
-                                
-                                
-                                <div class=" row no-guters">
-                                <div class="col-md-2"></div>
-                                <div class=" col-md-10 mb-2">
-                               
-                                    <button id="btnGroupDrop1" type="button"
-                                        class="mx-4 col-md-6 btn btn-secondary dropdown-toggle " data-toggle="dropdown"
-                                        aria-haspopup="true" aria-expanded="false" requerid>
-                                        Modo de Pago 
-                                    </button>
-                                    
-                                    <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
-                                        <button type="button"  data-dismiss="modal" id = "Cancela" class="btn btn-secndary">Cancela        </button>
-                                        <div></div>
-                                        <button type="button"  data-dismiss="modal" id = "Abona" class="btn btn-secndary">Abona     </button>
-                                        
-                                    </div>
-                                    
-                                </div>
-                                <div class="col-md-3"></div>
-                                
-
-                            </div>
-                                
-                            </div>
-                        </form>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
- <!-----------------------------------------FIn Modal agregar gasto---------------------------------------------->
 
  <script type="text/javascript">
     $(document).ready(function(){
         $('#generarFtortas').click(function(){
-          pago=$('#pago').val();
-          generarFactura(pago,'<?php echo $suma; ?>','<?php echo $_SESSION["nombre_usuario"]?>');
-          //restarainventario(pago);
+          
+          fecha=$('#fecha').val();
+          nombreU=$('#Nombre').val();
+          informacion=$('#Informacion').val();
+          telefono=$('#Telefono').val();
+          descripcion=$('#Descripcion').val();
+          pago=$('#Pago').val();
+          generarFactura3(pago,'<?php echo $suma; ?>','<?php echo $_SESSION["nombre_usuario"]?>', fecha, nombreU, informacion, telefono, descripcion, pago);
           sumarainventario(pago);
         });
     });

@@ -8,6 +8,6 @@
     $sql2="UPDATE ventas SET VEN_ESTADO = '0' WHERE FACTURAS_ID = '$ide2'";
     $result2=mysqli_query($conexion,$sql2);
     $result=mysqli_query($conexion,$sql);
-
+// Retornar la cantidad de productos y actualizar el inventario a demas de actualizar la venta 
     
 ?>

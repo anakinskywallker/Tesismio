@@ -50,7 +50,6 @@ function agregarafactura(cantidad){
   
     
 }
-
 function agregarafactura2(cantidad,preciou){
 
 	cadena="cantidad=" + cantidad +
@@ -178,6 +177,49 @@ function generarFactura2(pago,total,nombre){
 			 }
 		     });
         }
+}
+function generarFactura3(pago,total,nombre, fecha, nombreU, informacion, telefono, descripcion){
+    
+    
+    cadena="nombre=" + nombre +
+            "&total=" + total  +
+			"&fecha=" + fecha +
+			"&nombreU=" + nombreU +
+			"&informacion=" + informacion +
+			"&telefono=" + telefono +
+			"&descripcion=" + descripcion +
+            "&pago=" + pago;
+		
+	var cambio = pago - total; 
+	
+    
+    if ( cambio < 0){
+
+		cambio = cambio * -1;
+		var n = cambio.toString();
+         aux = "$ " + n;
+		alertify.alert("Saldo Pendiente ", aux, function(){ alertify.success('Ok'); }	);
+    }else{
+		
+		var n = cambio.toString();
+		aux = "$ " + n;
+		alertify.alert(' ! Su cambio es ¡', aux, function(){ alertify.success('Ok'); });   
+    }
+	$.ajax({
+		type:"POST",
+		url:"php/generarFactura3.php",
+		data:cadena,
+		success:function(r){
+		   if(r==1){
+			     alertify.success("Listo!");
+				  limpiar(); 
+			   
+		   }else{
+			      alertify.error("Fallo :(");
+				  limpiar(); 
+		   }
+		}
+		});
 }
 function listarFacturas(id,fecha_in,fecha_fn,tipo){
     
