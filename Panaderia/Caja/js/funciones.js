@@ -135,11 +135,11 @@ function generarFactura(pago,total,nombre){
 			 data:cadena,
 			 success:function(r){
 				if(r==1){
-					//alertify.success("Cleansed!");
+					   //alertify.success("Venta Registrada!");
                        limpiar(); 
                     
 				}else{
-					//alertify.error("Fallo el servidor :(");
+					// alertify.error("Fallo el servidor :(");
                        limpiar(); 
 				}
 			 }

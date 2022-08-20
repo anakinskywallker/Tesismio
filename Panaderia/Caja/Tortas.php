@@ -61,6 +61,8 @@
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="Tortas.php">Tortas</a>
+          </li><li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="encargos.php">Encargos Tortas</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="facturas.php">Facturacion</a>
@@ -250,7 +252,9 @@
 
       
     </section>
+    
   </div>
+  
 <!------------------------------------------------------------------------------------------------------------->
 <!---------------------------------------- Modal para agregar cantidad de productos --------------------------->
        

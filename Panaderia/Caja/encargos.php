@@ -12,7 +12,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Caja Facturas</title>
+  <title>Encargos Tortas</title>
 
   <!-- menu CSS -->
   <link href="../vendor/bootstrap/css/bootstrap.css" rel="stylesheet">
@@ -75,6 +75,9 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="Tortas.php">Tortas</a>
           </li>
+          </li><li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="encargos.php">Encargos Tortas</a>
+          </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="facturas.php">Facturacion</a>
           </li>
@@ -129,10 +132,8 @@
             </button>
             <div class="dropdown-menu col col-md-6" aria-labelledby="btnGrouDrop2">
               <button type="button" id = "todas" class="btn btn-secndary">Todos        </button>
-              <button type="button" id = "anuladas" class="btn btn-secndary">Anuladas     </button>
+              <button type="button" id = "anuladas" class="btn btn-secndary">Canceladas     </button>
               <button type="button" id = "pendientes" class="btn btn-secndary">Pendientes   </button>
-              <button type="button" id = "solo_gastos" gastos class="btn btn-secndary">Solo Gastos  </button>
-              <button type="button" id = "solo_ingresos" ingresos class="btn btn-secndary">Solo Ingresos</button>
             </div>
 
           </div>
@@ -155,7 +156,7 @@
  <!------------------------------------------------ Tabla De Facturas  --------------------------------------------------------->
         <div class="table-wrapper-scroll-y my-custom-scrollbar1 ">
              <div class="container">
-  	             <div id="tabla_tortas"></div>
+  	             <div id="tabla_encargos"></div>
              </div>
         </div>
  <!------------------------------------------------ FIN Tabla De Facturas  --------------------------------------------------------->
@@ -250,48 +251,37 @@
         $('#elimina').click(function(){
         id_el=$('#validationTextarea1').val();
         observacion=$('#validationTextarea2').val();
-        cambiarFactura2(id_el,observacion) 
+        cambiarFactura(id_el,observacion) 
         });
            
         $('#buscar').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas2(id,fecha_in,fecha_fn,1) 
+        listarFacturas(id,fecha_in,fecha_fn,1) 
         });
         $('#todas').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas2(10,fecha_in,fecha_fn,2) 
+        listarFacturas(10,fecha_in,fecha_fn,2) 
               
         });
-        $('#anuladas').click(function(){
+        $('#canceladas').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas2(10,fecha_in,fecha_fn,3)
+        listarFacturas(10,fecha_in,fecha_fn,3)
               
         });
         $('#pendientes').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas2(10,fecha_in,fecha_fn,4)   
-        });
-        $('#solo_gastos').click(function(){
-        id=$('#buscar_fac').val();
-        fecha_in=$('#fecha_in').val();
-        fecha_fn=$('#fecha_fn').val();
-        listarFacturas2(10,fecha_in,fecha_fn,5)  
-        });
-        $('#solo_ingresos').click(function(){
-        id=$('#buscar_fac').val();
-        fecha_in=$('#fecha_in').val();
-        fecha_fn=$('#fecha_fn').val();
-        listarFacturas2(10,fecha_in,fecha_fn,6)  
-        });
-        $('#tabla_factu').load('componentes/tabla_factu.php'); 
+        listarFacturas(10,fecha_in,fecha_fn,4)   
+        });  
+        
+        $('#tabla_encargos').load('componentes/tabla_encargos.php'); 
         $('#tabla_pro').load('componentes/tabla_pro.php'); 
         
         
