@@ -70,8 +70,9 @@ $conexion = conexion();
                     </li>
 
                     <li class="nav-item">
-                        <a class="nav-link js-scroll-trigger" href="panaderia.php">Panaderia</a>
+                        <a class="nav-link js-scroll-trigger" href="panadero.php">Panaderia</a>
                     </li>
+                 
                     </li>
                     <li class="nav-item dropdown no-arrow">
                         <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
@@ -88,7 +89,7 @@ $conexion = conexion();
         </div>
     </nav>
 
-    <!-- Tabla de productos -->
+    <!------------------------------------------ Tabla de productos ------------------------>
     <section class="bg-light" id="portfolio">
         <div class=" container">
             <!---->

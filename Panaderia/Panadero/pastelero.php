@@ -99,40 +99,16 @@
                         <li class="media">
                             <img src="../img/imag/cafenegro.jpg" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
                             <div class="media-body">
-                                <h5 class="mt-0 my-4 mb-4">Cafe negro
+                                <h5 class="mt-0 my-4 mb-4">Ejemmplo
                             </div>
                         </li>
                     </button>
-                    <button type="button" class="list-group-item list-group-item-action" href="#productos" data-toggle="modal">
-                        <li class="media">
-                            <img src="../img/imag/cafenegro.jpg" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
-                            <div class="media-body">
-                                <h5 class="mt-0 my-4 mb-4">Cafe en Leche
-                            </div>
-                        </li>
-
-                    </button>
+                    
                     <button type="button" class="list-group-item list-group-item-action col-ms-5" href="#productos" data-toggle="modal">
                         <li class="media">
                             <img src="../img/imag/cafenegro.jpg" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
                             <div class="media-body">
-                                <h5 class="mt-0 my-4 mb-4">Cafe negro
-                            </div>
-                        </li>
-                    </button>
-                    <button type="button" class="list-group-item list-group-item-action col-ms-5" href="#productos" data-toggle="modal">
-                        <li class="media">
-                            <img src="../img/imag/cafenegro.jpg" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
-                            <div class="media-body">
-                                <h5 class="mt-0 my-4 mb-4">Cafe negro
-                            </div>
-                        </li>
-                    </button>
-                    <button type="button" class="list-group-item list-group-item-action col-ms-5" href="#productos" data-toggle="modal">
-                        <li class="media">
-                            <img src="../img/imag/cafenegro.jpg" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
-                            <div class="media-body">
-                                <h5 class="mt-0 my-4 mb-4">Cafe negro
+                                <h5 class="mt-0 my-4 mb-4">Ejemmplo
                             </div>
                         </li>
                     </button>
