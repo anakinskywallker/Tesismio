@@ -98,7 +98,7 @@ $conexion = conexion();
 
                 <div class="list-group col-md-6 col-sm-12 col-12 mx-1 my-custom-scrollbarList">
                 <?php 
-                $sql ="SELECT  *  FROM productos WHERE (PRO_TIPO = 6 OR PRO_TIPO = 5 OR PRO_TIPO = 4 OR PRO_TIPO = 3 ) AND (PRO_CLASE = 1)";
+                $sql ="SELECT  *  FROM productos WHERE (PRO_TIPO = 6 OR PRO_TIPO = 5 OR PRO_TIPO = 4 OR PRO_TIPO = 3) AND (PRO_CLASE = 1)";
                 $result1 = mysqli_query($conexion, $sql);
                 if (mysqli_num_rows($result1) > 0){
                     while($row = mysqli_fetch_assoc($result1)){
@@ -256,7 +256,6 @@ $conexion = conexion();
 <script type="text/javascript">
     $(document).ready(function() {
         $('#tabla_producion').load('componentes/tabla_producion.php');
-
     });
 
     $(document).ready(function(){

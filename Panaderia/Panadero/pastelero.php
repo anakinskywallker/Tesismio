@@ -1,7 +1,8 @@
 @@ -1,348 +0,0 @@
 <?php
-	session_start();
-	include 'conectar.php';
+session_start();
+require_once "../Administrador/php/conexion.php";
+$conexion = conexion();
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -95,31 +96,37 @@
             <form class="was-validated row">
                 <!--Seccion productos -->
                 <div class="list-group col-md-7 col-sm-12 col-12 mx-1 my-custom-scrollbarList">
-                    <button type="button" class="list-group-item list-group-item-action col-ms-5" href="#productos" data-toggle="modal">
+                <?php 
+                $sql ="SELECT  *  FROM productos WHERE (PRO_TIPO = 7 ) AND (PRO_CLASE = 1)";
+                $result1 = mysqli_query($conexion, $sql);
+                if (mysqli_num_rows($result1) > 0){
+                    while($row = mysqli_fetch_assoc($result1)){
+                        $id = $row['PRO_ID'];
+                        $foto = $row['PRO_FOTO'];
+                        $nombre = $row['PRO_NOMBRE'];
+                        $precio = $row['PRO_VENTA'];
+                 ?>
+
+                     <button type="button" class="list-group-item list-group-item-action col-ms-5" href="#productos" data-toggle="modal">
                         <li class="media">
-                            <img src="../img/imag/cafenegro.jpg" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
+                            <img src="../img/<?php echo $foto;?>" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
                             <div class="media-body">
-                                <h5 class="mt-0 my-4 mb-4">Ejemmplo
+                                <h5 class="mt-0 my-4 mb-4"><?php echo $nombre;  ?>
                             </div>
                         </li>
                     </button>
+                    <?php
+                    }
+                }
+
+                    ?>
                     
-                    <button type="button" class="list-group-item list-group-item-action col-ms-5" href="#productos" data-toggle="modal">
-                        <li class="media">
-                            <img src="../img/imag/cafenegro.jpg" class="col-5 col-md-3 col-sm-3 mr-3" alt="...">
-                            <div class="media-body">
-                                <h5 class="mt-0 my-4 mb-4">Ejemmplo
-                            </div>
-                        </li>
-                    </button>
 
                 </div>
                 <!--Seccion tablas-->
                 <div class="class col-md-4 col-12">
                     <!-------tabla facturas------------->
-                    <div class="table-wrapper-scroll-y my-custom-scrollbarProductos  col-md-12 col-sm-12 col-12">
-                        <div id="tabla_Facturacion"></div>
-                    </div>
+               
                     <!-------tabla tortas------------->
                     <div class="classs col-md-7"></div>
                     <div class="table-wrapper-scroll-y my-custom-scrollbarProductos col-md-12 col-12">
@@ -191,33 +198,19 @@
                                 <div class="col-md-12 mb-2 my-2 mx-5">
 
                                     <div class="input-group col-md-9">
-                                        <span class="mx-0 col-md-12">Cantidad de panes:</span>
-                                        <input type="number" id="nombreusuario" class="form-control  " placeholder="Cantidad del producto" required>
-                                    </div>
 
-                                    <div class="custom-control custom-radio">
-                                        <input type="radio" id="btnDeshabilitar" name="customRadio" class="custom-control-input" checked>
-                                        <label class="custom-control-label" for="btnDeshabilitar">Ingresar por
-                                            unidad</label>
+                                        <span class="mx-0 col-md-12">Cantidad de Bandejas:</span>
+                                        <input type="number" id="numero_bandejas" class="form-control  " placeholder="Cantidad del producto" required >
                                     </div>
-                                    <div class="custom-control custom-radio">
-                                        <input type="radio" id="btnHabilitar" name="customRadio" class="custom-control-input">
-                                        <label class="custom-control-label" for="btnHabilitar">Ingresar por
-                                            bandejas</label>
-                                    </div>
-
                                     <div class="input-group col-md-9">
-                                        <span class="mx-0 col-md-12">Cantidad de bandeja:</span>
-                                        <input type="number" id="nombre" class="form-control  " placeholder="Cantidad del producto" required>
+                                        <span class="mx-0 col-md-12">Cantidad de Panes por Bandeja:</span>
+                                        <input type="number" id="cantidad_pan" class="form-control  " placeholder="Cantidad del producto" required >
                                     </div>
                                 </div>
-
-                            </div>
-
-                            <div class=" row no-guters">
+                                <div class=" row no-guters">
                                 <div class="col-md-2 col-2 "></div>
                                 <div class=" col-md-10 col-5 mb-2">
-                                    <button type="button" data-dismiss="modal" id="cajero" class="mx-4 col-md-6 btn btn-secondary">Guardar</button>
+                                <button type="button" data-dismiss="modal" id="guardar_prd" class="mx-4 col-md-10 btn btn-secondary">Guardar</button>
                                 </div>
                             </div>
                         </form>
