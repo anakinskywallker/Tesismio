@@ -221,7 +221,7 @@ function generarFactura3(pago,total,nombre, fecha, nombreU, informacion, telefon
 		}
 		});
 }
-function listarFacturas(id,fecha_in,fecha_fn,tipo){
+function listarFacturas(id,fecha_in,fecha_fn,tipo,usuario){
     
     d=fecha_in.split('/');
     mes = d[0];  
@@ -234,12 +234,13 @@ function listarFacturas(id,fecha_in,fecha_fn,tipo){
     diaf = tem[1];
     añof = tem[2];
     fechafn = añof + "-" + mesf + "-" + diaf + " 23:59:59";
-    // alert(id);
+     
     
     cadena="id=" + id +
            "&fechain=" + fechain  +
            "&fechafn=" + fechafn  +
-           "&tipo=" + tipo;
+           "&tipo=" + tipo +
+		   "&usuario=" + usuario;
        
          
              $.ajax({
@@ -249,9 +250,11 @@ function listarFacturas(id,fecha_in,fecha_fn,tipo){
 			 success:function(r){
 				if(r==1){
                     $('#tabla_factu').load('componentes/tabla_factu.php'); 
+					$('#tabla_encargos').load('componentes/tabla_encargos.php'); 
 					//alertify.success("Cleansed!");
                                 
 				}else{
+		
 					//alertify.error("Fallo el servidor :(");
                 }
 			 }

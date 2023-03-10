@@ -5,7 +5,7 @@
     $fechain=$_POST['fechain'];
 	$fechafn=$_POST['fechafn'];
 	$tipo=$_POST['tipo'];
-    $estatico = 1;
+    $estatico = $_POST['usuario'];
 	
     $sql="UPDATE aux2 set       id_fac=$id_fac,
                                 fechain='$fechain',

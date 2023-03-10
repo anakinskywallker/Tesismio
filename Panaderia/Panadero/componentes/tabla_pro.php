@@ -14,7 +14,7 @@
               <tr class="bg-secondary">
                 <th scope="col">Producto</th>
                 <th scope="col">Cantidad</th>
-                <th scope="col">Saldo</th>
+                <th scope="col">Costo Actualizado</th>
                 <th scope="col">Total</th>
 
 
@@ -26,44 +26,20 @@ $dato = 0;
 				                    $sql="SELECT *  from aux3";
 				                    $result=mysqli_query($conexion,$sql);
                                     while($ver=mysqli_fetch_row($result)){ 
-                                     $id_factura = $ver[0];  
-                                     $saldo = $ver[5];
+                                     $dato = $ver[0];  
                                      $aux = $ver[4] / $ver[2];
              ?>
               <tr>
                 <th scope="row"> <?php echo $ver[1]  ?></th>
                 <td><?php echo $ver[2]  ?></td>
-                <td><?php echo $ver[5]  ?></td>
+                <td><?php echo $aux  ?></td>
                 <td><?php echo $ver[4]  ?></td>
               </tr>
               
                <?php }
                                         ?>
-
-              <tr>
-                <th scope="row"> <?php echo $ver[1]  ?></th>
-                <td><?php echo $ver[2]  ?></td>
-                <td><?php echo $ver[5]  ?></td>
-                <td><?php echo $ver[4]  ?></td>
-              </tr>
             </tbody>
           </table>
      <div class="col-md-12">
-          <a>Factura No: <?php echo $id_factura  ?></a>
+          <a>Factura No: <?php echo $dato  ?></a>
     </div>
-    
-    <form class="was-validated">
-
-<div class="row mb-2">
-
-<div class="col-xs-3 col-md-3">
-<a> Saldo por pagar <?php echo$saldo?></a>
-  </div>
-  
-  <div class="col-xs-2 col-md-2">
-    <button id="Pagar" type="submit" class="btn btn-secondary mb-2 col">Pagar</button>
-  </div>
-
-</div>
-
-</form>

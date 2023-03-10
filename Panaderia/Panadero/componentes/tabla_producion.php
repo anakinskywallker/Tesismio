@@ -14,7 +14,7 @@ $conexion = conexion();
             <th scope="col">Apll.</th>
             <th scope="col">Fech.</th>
             <th scope="col">Cant.</th>
-            <th>Editar. </th>
+           <!--  <th>Editar. </th> -->
         </tr>
     </thead>
     <tbody>
@@ -37,11 +37,12 @@ $conexion = conexion();
                 <td><?php echo $ver[2] ?></td>
                 <td><?php echo $ver[3] ?></td>
                 <td><?php echo $ver[4] ?></td>
-                <td>
+              <!--    <td>
                     <a data-toggle="modal" data-target="#Edicion" onclick="solicitudcancelar('<?php echo $ver[5]?>')" role="button">
                         <i class="fas fa-edit fa-fw"></i> 
                     </a>
                 </td>
+            -->
                 
             </tr>
             

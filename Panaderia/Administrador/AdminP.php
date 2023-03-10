@@ -280,39 +280,39 @@
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas(id,fecha_in,fecha_fn,1) 
+        listarFacturas(id,fecha_in,fecha_fn,1,1) 
         });
         $('#todas').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas(10,fecha_in,fecha_fn,2) 
+        listarFacturas(10,fecha_in,fecha_fn,2,1) 
               
         });
         $('#anuladas').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas(10,fecha_in,fecha_fn,3)
+        listarFacturas(10,fecha_in,fecha_fn,3,1)
               
         });
         $('#pendientes').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas(10,fecha_in,fecha_fn,4)   
+        listarFacturas(10,fecha_in,fecha_fn,4,1)   
         });
         $('#solo_gastos').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas(10,fecha_in,fecha_fn,5)  
+        listarFacturas(10,fecha_in,fecha_fn,5,1)  
         });
         $('#solo_ingresos').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas(10,fecha_in,fecha_fn,6)  
+        listarFacturas(10,fecha_in,fecha_fn,6,1)  
         });
         $('#tabla_factu').load('componentes/tabla_factu2.php'); 
         $('#tabla_pro').load('componentes/tabla_pro.php');  

@@ -155,7 +155,7 @@
  <!------------------------------------------------ Tabla De Facturas  --------------------------------------------------------->
         <div class="table-wrapper-scroll-y my-custom-scrollbar1 ">
              <div class="container">
-  	             <div id="tabla_tortas"></div>
+  	             <div id="tabla_factu"></div>
              </div>
         </div>
  <!------------------------------------------------ FIN Tabla De Facturas  --------------------------------------------------------->
@@ -250,46 +250,46 @@
         $('#elimina').click(function(){
         id_el=$('#validationTextarea1').val();
         observacion=$('#validationTextarea2').val();
-        cambiarFactura2(id_el,observacion) 
+        cambiarFactura(id_el,observacion) 
         });
            
         $('#buscar').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas2(id,fecha_in,fecha_fn,1) 
+        listarFacturas(id,fecha_in,fecha_fn,1,2) 
         });
         $('#todas').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas2(10,fecha_in,fecha_fn,2) 
+        listarFacturas(10,fecha_in,fecha_fn,2,2) 
               
         });
         $('#anuladas').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas2(10,fecha_in,fecha_fn,3)
+        listarFacturas(10,fecha_in,fecha_fn,3,2)
               
         });
         $('#pendientes').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas2(10,fecha_in,fecha_fn,4)   
+        listarFacturas(10,fecha_in,fecha_fn,4,2)   
         });
         $('#solo_gastos').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas2(10,fecha_in,fecha_fn,5)  
+        listarFacturas(10,fecha_in,fecha_fn,5,2)  
         });
         $('#solo_ingresos').click(function(){
         id=$('#buscar_fac').val();
         fecha_in=$('#fecha_in').val();
         fecha_fn=$('#fecha_fn').val();
-        listarFacturas2(10,fecha_in,fecha_fn,6)  
+        listarFacturas(10,fecha_in,fecha_fn,6,2)  
         });
         $('#tabla_factu').load('componentes/tabla_factu.php'); 
         $('#tabla_pro').load('componentes/tabla_pro.php'); 

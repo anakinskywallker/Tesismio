@@ -22,7 +22,7 @@
             <tbody>
             <?php
                     
-                    $sql2="SELECT * from aux2 WHERE id='1'";
+                    $sql2="SELECT * from aux2 WHERE id='2'";
                     $result2=mysqli_query($conexion,$sql2);
                     $ver2=mysqli_fetch_row($result2);
                     date_default_timezone_set('America/Bogota');

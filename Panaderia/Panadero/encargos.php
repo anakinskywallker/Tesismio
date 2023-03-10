@@ -59,48 +59,44 @@
 
   <!-- menu-->
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
-    <div class="container">
-      <a class="navbar-brand js-scroll-trigger" href="../index.html">Rico Pan</a>
-      <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
-        data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false"
-        aria-label="Toggle navigation">
-        Menu
-        <i class="fas fa-bars"></i>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarResponsive">
-        <ul class="navbar-nav text-uppercase ml-auto">
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="caja.php">Caja</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="Tortas.php">Tortas</a>
-          </li>
-          </li><li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="encargos.php">Encargos Tortas</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="facturas.php">Facturacion</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="Insumos.php">Insumos</a>
-          </li>
-          <li class="nav-item dropdown no-arrow">
-            <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown"
-              aria-haspopup="true" aria-expanded="false">
-              <span class="mr-2 d-none d-lg-inline "><?php echo $_SESSION["nombre_usuario"]?></span>
-              <img class="img-profile rounded-circle" src="../img/team/2 - copia.jpg">
+        <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="../index.html">Rico pan</a>
+            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                Menu
+                <i class="fas fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse " id="navbarResponsive">
 
-            </a>
-            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
-              <a class="dropdown-item" href="../index.html"  >Cerrar
-                Sesión</a>
-              <!-- aqui hay que enviar una señal para cerrar la sesion-->
+                <!--inicio notificaciones-->
+                <ul class="navbar-nav text-uppercase ml-auto ">
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="encargos.php">Encargos Pasteleria</a>
+                    </li>
+                    
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="pastelero.php">Pasteleria</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="panadero.php">Panaderia</a>
+                    </li>
+                    
+                 
+                    </li>
+                    <li class="nav-item dropdown no-arrow">
+                        <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                            <span class="mr-2 d-none d-lg-inline "><?php echo $_SESSION["nombre_usuario"] ?></span>
+                            <img class="img-profile rounded-circle" src="../img/team/2 - copia.jpg">
+
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right" aria-labelledby="userDropdown">
+                            <a class="dropdown-item" href="../Login/cerrar_sesion.php" data-target="#logoutModal">Cerrar Sesión</a>
+                        </div>
+                    </li>
+                </ul>
             </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </nav>
+        </div>
+    </nav>
 
   <!----------------------------------------listado de facturacion  ----------------------------------------------------------------------------->
   <section class="bg-light" id="portfolio">
@@ -170,7 +166,26 @@
    <!----------------------------------------------- FIN tabla INFORMACION DE LA FACTURA -----------------------------------------------> 
       </form>
    <!----------------------------------------------- Inicio Boton Eliminar -------------------------------------------------------------> 
-   
+    <form class="was-validated">
+
+        <div class="row mb-2">
+          <div class="col-md-3">
+            <input type="text" class="form-control is-invalid mb-2" placeholder="Id Factura" aria-label="Cantidad"
+              aria-describedby="btnGroupn" id="validationTextarea1" required>
+          </div>
+
+          <div class="col-xs-2 col-md-7 ">
+            <input type="text" class="form-control is-invalid mb-2" placeholder="Observacion" aria-label="Cantidad"
+              aria-describedby="btnGroupAn" id="validationTextarea2" required>
+
+          </div>
+          <div class="col-xs-2 col-md-2">
+            <button id="elimina" type="submit" class="btn btn-secondary mb-2 col">Eliminar</button>
+          </div>
+
+        </div>
+
+      </form>
    <!----------------------------------------------- FIN Boton eliminar ----------------------------------------------------------->
 
     </div>
@@ -230,7 +245,7 @@
 <script type="text/javascript">
 	$(document).ready(function(){
          
-        $('#Pagar').click(function(){
+        $('#elimina').click(function(){
         id_el=$('#validationTextarea1').val();
         observacion=$('#validationTextarea2').val();
         cambiarFactura(id_el,observacion) 

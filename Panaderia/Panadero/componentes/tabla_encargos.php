@@ -51,7 +51,7 @@
              ?>
                                    
               <tr>
-                <td>  <button onclick="mostrarFactura('<?php echo $ver[0]?>')"type="button" class="btn btn-secondary btn-sm ">Mirar</button></td>
+                <td>  <button onclick="mostrarFactura('<?php echo $ver[0]?>')"type="button" class="btn btn-secondary btn-sm">Mirar</button></td>
                 <td>  <?php echo $ver[0] ?>  </td>
                 <td>  <?php echo $ver[1] ?>  </td>
                 <td><a href=""><?php echo $ver[2] ?> </a> </td>
@@ -65,4 +65,3 @@
                 ?>
              </tbody>
           </table>
-        

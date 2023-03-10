@@ -65,6 +65,10 @@ $conexion = conexion();
                 <!--inicio notificaciones-->
                 <ul class="navbar-nav text-uppercase ml-auto ">
                     
+                <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="encargos.php">Encargos Pasteleria</a>
+                    </li>
+                    
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="pastelero.php">Pasteleria</a>
                     </li>
@@ -96,7 +100,7 @@ $conexion = conexion();
             <form class="was-validated row">
                 <!--Seccion productos -->
 
-                <div class="list-group col-md-6 col-sm-12 col-12 mx-1 my-custom-scrollbarList">
+                <div class="list-group col-md-5 col-sm-12 col-12 mx-1 my-custom-scrollbarList">
                 <?php 
                 $sql ="SELECT  *  FROM productos WHERE (PRO_TIPO = 6 OR PRO_TIPO = 5 OR PRO_TIPO = 4 OR PRO_TIPO = 3) AND (PRO_CLASE = 1)";
                 $result1 = mysqli_query($conexion, $sql);
@@ -122,12 +126,12 @@ $conexion = conexion();
                 ?>                    
                 </div>
                 <!--Seccion tablas-->
-                <div class="class col-md-5 col-12">
-                    <!-------tabla facturas------------->
+                <div class="class col-md-6 col-12">
+                    <!-------------------------------------------------------------Tabla Lista de productos -------------------------------------------------------------------->
                     <div class="table-wrapper-scroll-y my-custom-scrollbarProductos  col-md-12 col-sm-12 col-12">
                         <div id="tabla_producion"></div>
                     </div>
-                    <!-------tabla tortas------------->
+                <!-------tabla tortas------------->
                     <!--   <div class="classs col-md-7"></div>
                     <div class="table-wrapper-scroll-y my-custom-scrollbarProductos col-md-12 col-12">
                         <div id="tabla_tortas"></div>
@@ -171,11 +175,6 @@ $conexion = conexion();
             </div>
         </div>
     </footer>
-
-
-
-
-
     <!---------------------------------------------------Modal agregar Pruduccion--------------------------------------------------------->
     <div class="modal fade" id="productos" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered " role="document">
@@ -220,12 +219,6 @@ $conexion = conexion();
         </div>
     </div>
     <!---------------------------------------------------FIN Modal agregar produccion--------------------------------------------------------->
-
-    <!----------Modal edicion de productos------------------->
-    
-    <!--fin modal-->
-
-
     <!-- Bootstrap core JavaScript -->
     <script src="../vendor/jquery/jquery.min.js"></script>
     <script src="../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

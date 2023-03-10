@@ -66,6 +66,10 @@ $conexion = conexion();
                 <!--inicio notificaciones-->
                 <ul class="navbar-nav text-uppercase ml-auto ">
                     
+                <li class="nav-item">
+                        <a class="nav-link js-scroll-trigger" href="encargos.php">Encargos Pasteleria</a>
+                    </li>
+                    
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="pastelero.php">Pasteleria</a>
                     </li>
@@ -73,7 +77,7 @@ $conexion = conexion();
                     <li class="nav-item">
                         <a class="nav-link js-scroll-trigger" href="panadero.php">Panaderia</a>
                     </li>
-                    </li>
+                    
                     <li class="nav-item dropdown no-arrow">
                         <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                             <span class="mr-2 d-none d-lg-inline "><?php echo $_SESSION["nombre_usuario"] ?></span>
@@ -95,7 +99,7 @@ $conexion = conexion();
             <!---->
             <form class="was-validated row">
                 <!--Seccion productos -->
-                <div class="list-group col-md-7 col-sm-12 col-12 mx-1 my-custom-scrollbarList">
+                <div class="list-group col-md-5 col-sm-12 col-12 mx-1 my-custom-scrollbarList">
                 <?php 
                 $sql ="SELECT  *  FROM productos WHERE (PRO_TIPO = 7 ) AND (PRO_CLASE = 1)";
                 $result1 = mysqli_query($conexion, $sql);
@@ -124,7 +128,7 @@ $conexion = conexion();
 
                 </div>
                 <!--Seccion tablas-->
-                <div class="class col-md-4 col-12">
+                <div class="class col-md-6 col-12">
                     <!-------tabla facturas------------->
                
                     <!-------tabla tortas------------->
