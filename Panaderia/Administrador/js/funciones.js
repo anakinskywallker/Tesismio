@@ -481,3 +481,9 @@ function suspenderproducto(id){
 	});
     
 }
+function preguntarSiNoprueba(id){
+	alertify.confirm('Pagar saldo', '¿Esta seguro enviar esta solicitud?', 
+	function(){ alertify.success('paso') }
+, function(){ alertify.error('Se cancelo')});
+
+}

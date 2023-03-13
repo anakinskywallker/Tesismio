@@ -69,11 +69,7 @@ function actualizaDatos(){
 
 }
 
-function preguntarSiNo(id){
-	alertify.confirm('Eliminar Datos', '¿Esta seguro de eliminar este registro?', 
-					function(){ eliminarDatos(id) }
-                , function(){ alertify.error('Se cancelo')});
-}
+
 
 function eliminarDatos(id){
 
@@ -93,5 +89,7 @@ function eliminarDatos(id){
 			}
 		});
 }
+
+
 
 

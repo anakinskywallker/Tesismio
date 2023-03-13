@@ -42,10 +42,10 @@ function guardarproduccion(bandejas, panes, usuario){
 
 }
 
-function preguntarSiNo(iden){
+function preguntarSiNoprueba(iden){
     
-	alertify.confirm('Eliminar Datos', '¿Esta seguro enviar esta solicitud?', 
-					function(){ suspenderempleado(id) }
+	alertify.confirm('Pagar saldo', '¿Esta seguro enviar esta solicitud?', 
+					function(){ alertify.success('paso') }
                 , function(){ alertify.error('Se cancelo')});
 }
 function solicitudcancelar(iden){
@@ -83,4 +83,7 @@ function guardarsolicitud(observacion){
 			}
 		}
 	});
+}
+function pagarsaldotortas(id){
+	;
 }

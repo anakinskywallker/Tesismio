@@ -38,10 +38,6 @@
   <script src="../librerias/alertifyjs/alertify.js"></script>  
 
 
-
-
-
-
   <!-- calendario -->
   <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
   <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
@@ -133,8 +129,6 @@
             <div class="dropdown-menu col col-md-6" aria-labelledby="btnGrouDrop2">
               <button type="button" id = "todas" class="btn btn-secndary">Todos        </button>
               <button type="button" id = "porFecha" class="btn btn-secndary">Por_Fecha        </button>
-              <button type="button" id = "canceladas" class="btn btn-secndary">Canceladas     </button>
-              <button type="button" id = "pendientes" class="btn btn-secndary">Pendientes   </button>
             </div>
 
           </div>
@@ -151,9 +145,6 @@
           </div>
 
         </div>
-        <!---->
-
-
  <!------------------------------------------------ Tabla De Facturas  --------------------------------------------------------->
         <div class="table-wrapper-scroll-y my-custom-scrollbar1 ">
              <div class="container">
@@ -161,19 +152,8 @@
              </div>
         </div>
  <!------------------------------------------------ FIN Tabla De Facturas  --------------------------------------------------------->
-  <!----------------------------------------------- tabla INFORMACION DE LA FACTURA ----------------------------------------------->
-        <div lass="table-wrapper-scroll-y my-custom-scrollbar ">
-          <div class="container">
-  	             <div id="tabla_pro"></div>
-         </div>
-        </div>
-   <!----------------------------------------------- FIN tabla INFORMACION DE LA FACTURA -----------------------------------------------> 
       </form>
-   <!----------------------------------------------- Inicio Boton Eliminar -------------------------------------------------------------> 
-   
-   <!----------------------------------------------- FIN Boton eliminar ----------------------------------------------------------->
-
-    </div>
+     </div>
   </section>
 
 
@@ -256,26 +236,109 @@
         listarFacturas(10,fecha_in,fecha_fn,3,3)       
         });
 
-        $('#canceladas').click(function(){
-        id=$('#buscar_fac').val();
-        fecha_in=$('#fecha_in').val();
-        fecha_fn=$('#fecha_fn').val();
-        listarFacturas(10,fecha_in,fecha_fn,4,3)
-              
-        });
-        $('#pendientes').click(function(){
-        id=$('#buscar_fac').val();
-        fecha_in=$('#fecha_in').val();
-        fecha_fn=$('#fecha_fn').val();
-        listarFacturas(10,fecha_in,fecha_fn,5,3)   
-        });  
         
         $('#tabla_encargos').load('componentes/tabla_encargos.php'); 
-        $('#tabla_pro').load('componentes/tabla_pro.php'); 
-        
-        
+              
  	});
 </script>
+<div class="modal fade" id="pagar_encargo" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered " role="document">
+            <div class="modal-content ">
+                <div class="modal-header">
+                    <h3 class="mx-5 section-heading text-uppercase ">Nuevo empleado</h3>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body ">
+                    <div class=" container-Agregar">
+                        <!---->
+                        <div class="col-12 col-md-12 mx-4 text-center">
 
+                        </div>
+                        <form class="was-validated">
+                            <!--Botones Inicio -->
+                            <div class=" row no-guters ">
+                                <div class="col-md-12 mb-2 my-2 mx-5">
+
+                                    <div class="input-group col-md-9">
+                                        <input type="text" id="nombreusuario" class="form-control  " placeholder="Nombre de usuario" required>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 mb-2 my-2 mx-5">
+
+                                    <div class="input-group col-md-9">
+                                        <input type="text" id="pasword" class="form-control  " placeholder="Pasword" required>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12 mb-2 my-2 mx-5">
+
+                                    <div class="input-group col-md-9">
+                                        <input type="text" id="nombre" class="form-control  " placeholder="Nombres" required>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12 mx-5 mb-2">
+
+                                    <div class="input-group col-md-9">
+                                        <input type="text"  id="apellido" class="form-control  " placeholder="Apellidos" required>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12 mb-2 mx-5">
+
+                                    <div class="input-group col-md-9">
+                                        <input type="number" id="cedula" class="form-control  " placeholder="CC" required>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12 mb-2 mx-5">
+
+                                    <div class="input-group col-md-9">
+                                        <input type="number" id="celular" class="form-control  " placeholder="Telefono" required>
+                                    </div>
+                                </div>
+
+                                <div class="col-md-12 mb-2 mx-5">
+
+                                    <div class="input-group col-md-9">
+                                        <input type="number" id="salario" class="form-control  " placeholder="Salario" required>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div class=" row no-guters">
+                                <div class="col-md-2"></div>
+                                <div class=" col-md-10 mb-2">
+                               
+                                    <button id="btnGroupDrop1" type="button"
+                                        class="mx-4 col-md-6 btn btn-secondary dropdown-toggle " data-toggle="dropdown"
+                                        aria-haspopup="true" aria-expanded="false" requerid>
+                                        Pagar
+                                    </button>
+                                    
+                                    <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                                        <button type="button"  data-dismiss="modal" id = "cajero" class="btn btn-secndary">Cajero(a)        </button>
+                                        <div></div>
+                                        <button type="button"  data-dismiss="modal" id = "panadero" class="btn btn-secndary">Panadero(a)     </button>
+                                        
+                                    </div>
+                                    
+                                </div>
+                                <div class="col-md-3"></div>
+                                
+
+                            </div>
+                        </form>
+                    </div>
+
+
+                </div>
+
+            </div>
+        </div>
+    </div>
 
 

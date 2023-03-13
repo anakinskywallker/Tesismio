@@ -345,4 +345,32 @@ function restarainventario(pago){
 			 }
 		     });
 }
+function preguntarSiNo(id){
 
+	alertify.confirm('Pagar saldo ', '¿Esta seguro enviar esta solicitud?', 
+					function(){ pagartortas(id) }
+                , function(){ alertify.error('Se cancelo 1')});
+}
+function pagartortas(id){
+	
+	
+cadena="id=" + id;
+
+$.ajax({
+	type:"POST",
+	url:"php/pagarTortas.php",
+	data:cadena,
+	success:function(r){
+	   if(r==1){
+		      alertify.success("Pago realizado!");
+			  $('#tabla_encargos').load('componentes/tabla_encargos.php'); 
+			 
+	   }else{
+		      alertify.error("Fallo el servidor :(");
+		
+	   }
+	}
+	});
+
+
+}

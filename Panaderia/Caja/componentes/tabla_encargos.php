@@ -4,7 +4,13 @@
 	$conexion=conexion();
 
  ?>
+
+<script src="../librerias/jquery-3.2.1.min.js"></script>
+  <script src="js/funciones.js"></script>
+  <script src="../librerias/bootstrap/js/bootstrap.js"></script>
+  <script src="../librerias/alertifyjs/alertify.js"></script>
  <table class="table table-striped" style="cursor: pointer;">
+
             <thead>
               <tr class="bg-secondary">
                <th scope="col">Seleccionar</th>         
@@ -51,7 +57,9 @@
              ?>
                                    
               <tr>
-                <td>  <button onclick="mostrarFactura('<?php echo $ver[0]?>')"type="button" class="btn btn-secondary btn-sm ">Mirar</button></td>
+                <td> <a role="button" onclick="preguntarSiNo('<?php echo $ver[0]?>')">
+                                        <i class="fas fa-folder-minus fa-fw"></i>Pagar
+                                    </a></td>
                 <td>  <?php echo $ver[0] ?>  </td>
                 <td>  <?php echo $ver[1] ?>  </td>
                 <td><a href=""><?php echo $ver[2] ?> </a> </td>
@@ -65,4 +73,5 @@
                 ?>
              </tbody>
           </table>
+          
         
