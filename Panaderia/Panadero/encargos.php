@@ -110,13 +110,7 @@
 
           <div class="col-md-4 mb-2">
 
-            <div class="input-group">
-
-              <input type="search" id = "buscar_fac" class="form-control  " placeholder="No Factura">
-              
-              <button class="btn  btn-outline-success my-0  mx-1 my-sm-0" id ="buscar" type="submit"> <i class="fas fa-search"></i>Buscar</button>
-
-            </div>
+           
 
           </div>
           <div class="col col-md-3  mb-2">
@@ -129,8 +123,7 @@
             <div class="dropdown-menu col col-md-6" aria-labelledby="btnGrouDrop2">
               <button type="button" id = "todas" class="btn btn-secndary">Todos        </button>
               <button type="button" id = "porFecha" class="btn btn-secndary">Por_Fecha        </button>
-              <button type="button" id = "canceladas" class="btn btn-secndary">Canceladas     </button>
-              <button type="button" id = "pendientes" class="btn btn-secndary">Pendientes   </button>
+       
             </div>
 
           </div>
@@ -157,14 +150,7 @@
              </div>
         </div>
  <!------------------------------------------------ FIN Tabla De Facturas  --------------------------------------------------------->
-  <!----------------------------------------------- tabla INFORMACION DE LA FACTURA ----------------------------------------------->
-        <div lass="table-wrapper-scroll-y my-custom-scrollbar ">
-          <div class="container">
-  	             <div id="tabla_pro"></div>
-         </div>
-        </div>
-   <!----------------------------------------------- FIN tabla INFORMACION DE LA FACTURA -----------------------------------------------> 
-      </form>
+ </form>
    <!----------------------------------------------- Inicio Boton Eliminar -------------------------------------------------------------> 
     <form class="was-validated">
 
@@ -270,20 +256,6 @@
         fecha_fn=$('#fecha_fn').val();
         listarFacturas(10,fecha_in,fecha_fn,3,3)       
         });
-
-        $('#canceladas').click(function(){
-        id=$('#buscar_fac').val();
-        fecha_in=$('#fecha_in').val();
-        fecha_fn=$('#fecha_fn').val();
-        listarFacturas(10,fecha_in,fecha_fn,4,3)
-              
-        });
-        $('#pendientes').click(function(){
-        id=$('#buscar_fac').val();
-        fecha_in=$('#fecha_in').val();
-        fecha_fn=$('#fecha_fn').val();
-        listarFacturas(10,fecha_in,fecha_fn,5,3)   
-        });  
         
         $('#tabla_encargos').load('componentes/tabla_encargos.php'); 
         $('#tabla_pro').load('componentes/tabla_pro.php'); 

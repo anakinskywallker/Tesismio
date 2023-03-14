@@ -69,13 +69,13 @@
                        }elseif($ver[7] == 1){
                           echo "Normal";
                         }elseif($ver[7] == 2){
-                          echo "Por entregar";
+                          echo "Tortas por entregar";
                         }elseif($ver[7] == 3){
-                          echo "Por entregar y pagar ";
+                          echo "Tortas por entregar y pagar ";
                         }elseif($ver[7] == 4){
-                          echo "Por hacer ";
+                          echo "Tortas por hacer ";
                         }else{
-                          echo "Por hacer y pagar";
+                          echo "Tortas por hacer y pagar";
                         } 
                     ?>  
                 </td>
@@ -90,8 +90,7 @@
                                                 echo  "Egreso";
                                                 
                                             }
-                                    }
-                                    elseif($ver[7] == 0)
+                                    }else
                                     {
                                             if ($ver[6] == 1){ 
                                                 echo "Ingreso"; 
@@ -101,8 +100,6 @@
                                                 echo  "Egreso";
                                                 $deuda = $deuda + $ver[5];
                                             }   
-                                    }else{
-
                                     }
                        
                                     ?> 

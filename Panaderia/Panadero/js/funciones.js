@@ -42,10 +42,10 @@ function guardarproduccion(bandejas, panes, usuario){
 
 }
 
-function preguntarSiNoprueba(iden){
+function preguntarSiNo(iden){
     
-	alertify.confirm('Pagar saldo', '¿Esta seguro enviar esta solicitud?', 
-					function(){ alertify.success('paso') }
+	alertify.confirm('Producto Frabicado', '¿Esta seguro enviar esta solicitud?', 
+					function(){ fabricarTorta(iden) }
                 , function(){ alertify.error('Se cancelo')});
 }
 function solicitudcancelar(iden){
@@ -84,6 +84,25 @@ function guardarsolicitud(observacion){
 		}
 	});
 }
-function pagarsaldotortas(id){
-	;
+function fabricarTorta(id){
+
+	cadena="id=" + id;
+
+$.ajax({
+	type:"POST",
+	url:"php/producirTortas.php",
+	data:cadena,
+	success:function(r){
+	   if(r==1){
+		      alertify.success("Producto listo para entregar!");
+			  $('#tabla_encargos').load('componentes/tabla_encargos.php'); 
+			 
+	   }else{
+		      alertify.error("Fallo el servidor :(");
+		
+	   }
+	}
+	});
+
+	
 }
