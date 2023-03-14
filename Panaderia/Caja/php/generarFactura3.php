@@ -23,12 +23,12 @@
    if ($s < 0)
    {  
       $s=$s*-1;
-      $estado = 3;
+      $estado = 5;
    }
    else
    {
       $s = 0;
-      $estado = 1;
+      $estado = 4;
    }
     $sql2="INSERT INTO facturas (PERSONAL_ID, FAC_FECHA, FAC_VALOR, PAGO, FAC_VALORTIPO, FAC_ESTADO, FAC_SALDO) 
     VALUES ('$id_p','$fecha_actual','$t','$p','1','$estado','$s')";

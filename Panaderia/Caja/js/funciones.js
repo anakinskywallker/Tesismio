@@ -349,7 +349,7 @@ function preguntarSiNo(id){
 
 	alertify.confirm('Pagar saldo ', '¿Esta seguro enviar esta solicitud?', 
 					function(){ pagartortas(id) }
-                , function(){ alertify.error('Se cancelo 1')});
+                , function(){ alertify.error('Se cancelo ')});
 }
 function pagartortas(id){
 	
@@ -372,5 +372,9 @@ $.ajax({
 	}
 	});
 
+
+}
+function informacionPorHacer(){
+	alertify.success("El pedido se esta realzado");
 
 }

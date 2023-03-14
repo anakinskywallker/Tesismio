@@ -38,17 +38,12 @@
                     $id_fa=$ver2[1];
                     $fein = $ver2[2];
                     $fefn = $ver2[3];
-                    if ($aux == 1) {    
-                        
+                    if ($aux == 1) {                       
                         $sql="SELECT facturas.FACTURAS_ID,facturas.FAC_FECHA,personal.NOMBRE,personal.APELLIDOS,facturas.OBSERVACION,facturas.FAC_VALOR,facturas.FAC_VALORTIPO FROM facturas INNER JOIN personal ON personal.PERSONAL_ID = facturas.PERSONAL_ID WHERE FACTURAS_ID = $id_fa";
-                        } elseif($aux == 2) {
-                        $sql="SELECT F.FACTURAS_ID,F.FAC_FECHA,E.NOMBREU,E.FECHA_ENTREGA,E.TELEFONO,F.FAC_VALOR,F.FAC_SALDO FROM facturas F INNER JOIN encargostortas E ON E.ID_FACTURA = F.FACTURAS_ID WHERE FAC_ESTADO = '3' ORDER BY FAC_FECHA DESC";
+                      }elseif($aux == 2){
+                        $sql="SELECT F.FACTURAS_ID,F.FAC_FECHA,E.NOMBREU,E.FECHA_ENTREGA,E.TELEFONO,F.FAC_VALOR,F.FAC_SALDO,F.FAC_ESTADO FROM facturas F INNER JOIN encargostortas E ON E.ID_FACTURA = F.FACTURAS_ID WHERE (F.FAC_ESTADO = '3' OR F.FAC_ESTADO = '2' OR F.FAC_ESTADO = '4' OR F.FAC_ESTADO = '5') ORDER BY FAC_FECHA DESC";
                       }elseif($aux == 3){
-                        $sql="SELECT F.FACTURAS_ID,F.FAC_FECHA,E.NOMBREU,E.FECHA_ENTREGA,E.TELEFONO,F.FAC_VALOR,F.FAC_SALDO FROM facturas F INNER JOIN encargostortas E ON E.ID_FACTURA = F.FACTURAS_ID WHERE FAC_ESTADO = '3' AND (FAC_FECHA BETWEEN '$fein' AND '$fefn') ORDER BY FAC_FECHA DESC";
-                      }elseif($aux == 4){
-                        $sql="SELECT facturas.FACTURAS_ID,facturas.FAC_FECHA,personal.NOMBRE,personal.APELLIDOS,facturas.OBSERVACION,facturas.FAC_VALOR,facturas.FAC_VALORTIPO FROM facturas INNER JOIN personal ON personal.PERSONAL_ID = facturas.PERSONAL_ID WHERE (FAC_FECHA BETWEEN '$fein' AND '$fefn') AND (FAC_ESTADO = 0 ) ORDER BY facturas.FACTURAS_ID";
-                      }elseif($aux == 5){
-                      $sql="SELECT facturas.FACTURAS_ID,facturas.FAC_FECHA,personal.NOMBRE,personal.APELLIDOS,facturas.OBSERVACION,facturas.FAC_VALOR,facturas.FAC_VALORTIPO FROM facturas INNER JOIN personal ON personal.PERSONAL_ID = facturas.PERSONAL_ID WHERE (FAC_FECHA BETWEEN '$fein' AND '$fefn') AND (FAC_ESTADO = 2 ) ORDER BY facturas.FACTURAS_ID";
+                        $sql="SELECT F.FACTURAS_ID,F.FAC_FECHA,E.NOMBREU,E.FECHA_ENTREGA,E.TELEFONO,F.FAC_VALOR,F.FAC_SALDO,F.FAC_ESTADO FROM facturas F INNER JOIN encargostortas E ON E.ID_FACTURA = F.FACTURAS_ID WHERE (F.FAC_ESTADO = '3' OR F.FAC_ESTADO = '2' OR F.FAC_ESTADO = '4' OR F.FAC_ESTADO = '5') AND (FAC_FECHA BETWEEN '$fein' AND '$fefn') ORDER BY FAC_FECHA DESC";
                       }
                     
 				    $result=mysqli_query($conexion,$sql);
@@ -57,9 +52,25 @@
              ?>
                                    
               <tr>
-                <td> <a role="button" onclick="preguntarSiNo('<?php echo $ver[0]?>')">
+                <td> <?php if ($ver[7] == 3) {?>          
+                                    <a role="button" onclick="preguntarSiNo('<?php echo $ver[0]?>')">
                                         <i class="fas fa-folder-minus fa-fw"></i>Pagar
-                                    </a></td>
+                                    </a>
+                                    
+                     <?php } elseif( $ver[7] == 2) {?> 
+                                    <a role="button" onclick="preguntarSiNo('<?php echo $ver[0]?>')">
+                                        <i class="fas fa-folder-minus fa-fw"></i>Entregar
+                                    </a>
+                     <?php } elseif( $ver[7] == 4) {?> 
+                                    <a role="button" onclick="informacionPorHacer('<?php echo $ver[0]?>')">
+                                        <i class="fas fa-folder-minus fa-fw"></i>Por hacer 
+                                    </a>
+                     <?php } elseif( $ver[7] == 5) {?> 
+                                    <a role="button" onclick="informacionPorHacer('<?php echo $ver[0]?>')">
+                                        <i class="fas fa-folder-minus fa-fw"></i>Por hacer  
+                                    </a>
+                     <?php } ?>          
+                </td>
                 <td>  <?php echo $ver[0] ?>  </td>
                 <td>  <?php echo $ver[1] ?>  </td>
                 <td><a href=""><?php echo $ver[2] ?> </a> </td>

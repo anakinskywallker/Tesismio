@@ -64,12 +64,18 @@
                 <td>  <?php echo $ver[1] ?>  </td>
                 <td>  <?php echo $ver[2] ?>  </td>
                 <td>  <?php echo $ver[4] ?>  </td>
-                <td>  <?php if($ver[7] == 1) {
-                          echo "Normal";
-                       }elseif($ver[7] == 0){
+                <td>  <?php if($ver[7] == 0) {
                           echo "Cancelado";
+                       }elseif($ver[7] == 1){
+                          echo "Normal";
+                        }elseif($ver[7] == 2){
+                          echo "Por entregar";
+                        }elseif($ver[7] == 3){
+                          echo "Por entregar y pagar ";
+                        }elseif($ver[7] == 4){
+                          echo "Por hacer ";
                         }else{
-                          echo "Pendiente";
+                          echo "Por hacer y pagar";
                         } 
                     ?>  
                 </td>
@@ -85,16 +91,18 @@
                                                 
                                             }
                                     }
-                                    else
+                                    elseif($ver[7] == 0)
                                     {
                                             if ($ver[6] == 1){ 
                                                 echo "Ingreso"; 
                                                 $ganancia =  $ganancia + $ver[5];
                                             } 
-                                            else {
+                                            else{  
                                                 echo  "Egreso";
                                                 $deuda = $deuda + $ver[5];
                                             }   
+                                    }else{
+
                                     }
                        
                                     ?> 
