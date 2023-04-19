@@ -1,4 +1,3 @@
-<!-- autor: JORGE ARMANDO MUÑOZ O -->
 <?php
 
 $host = "localhost";

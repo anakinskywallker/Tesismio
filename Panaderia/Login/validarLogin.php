@@ -1,4 +1,3 @@
-<!-- autor: JORGE ARMANDO MUÑOZ O -->
 <?php
 session_start();
 
@@ -70,10 +69,15 @@ if(isset($_POST['login'])){
                 }
          }
          else{
-          echo 'error';
+       
              echo'<script type="text/javascript">
                 alert("Usuario o contraseña incorrecta");      
-               </script>';
+               </script>
+               <script type="text/javascript"> 
+                                  window.location="Login.php"; 
+                        </script>
+               ';
+              
          }
   	  }
       

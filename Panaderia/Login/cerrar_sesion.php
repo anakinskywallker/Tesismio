@@ -1,4 +1,4 @@
-<!-- autor: JORGE ARMANDO MUÑOZ O -->                                                
+                                        
 <?php
 
 // PROGRAMA DE FINALIZACION DE SESION
@@ -15,5 +15,5 @@
                   window.location="../index.html"; 
         </script>
         <?php
-  //header('Location: ../index.php');
+
 ?>
